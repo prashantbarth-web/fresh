@@ -203,6 +203,15 @@ Before publishing, verify:
 
 ---
 
+## Publishing Workflow
+
+- After creating a new article, **always push the content file to the repo**
+- Push to a new branch and create a Pull Request for review
+- Never push directly to main/master
+- Include both the article file and any updated config files (master-prompt.md, article-list.md) in the same push if both changed
+
+---
+
 ## Repository Info
 
 - **Content Repo:** prashantbarth-web/contents
