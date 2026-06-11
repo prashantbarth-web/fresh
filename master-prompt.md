@@ -98,9 +98,20 @@ TAGS          : [pillar/snippet], [north/gap]
 ```
 
 ### FAQ Shortcode Format
+
+**Exact format to follow (must match exactly):**
 ```
-[sc_fs_multi_faq headline-0="h4" question-0="प्र. [Question]?" answer-0="[Answer 150-200 words]" count="[number]" html="true"]
+[sc_fs_multi_faq headline-0="h4" question-0="Question one?" answer-0="Answer one" image-0="" headline-1="h4" question-1="Question two?" answer-1="Answer two" image-1="" headline-2="h4" question-2="Question three?" answer-2="Answer three" image-2="" headline-3="h4" question-3="Question four?" answer-3="Answer four" image-3="" count="4" html="true" css_class=""]
 ```
+
+**Rules:**
+- Each question-answer pair MUST include: `headline-N="h4"`, `question-N="..."`, `answer-N="..."`, `image-N=""`
+- `image-N=""` is always empty but MUST be present after each answer
+- End with `count="[number]"`, `html="true"`, and `css_class=""`
+- Do NOT use "प्र." prefix in questions — write questions directly
+- Minimum 4 questions per article, ideally 5-7
+- Answer length: 150-200 words each
+- All in one single line (no line breaks inside shortcode)
 
 ---
 
