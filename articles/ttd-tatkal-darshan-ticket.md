@@ -193,7 +193,7 @@ For elders, check the dedicated facilities in the <a href="/senior-citizen-tirum
   <li><a href="/tirumala-darshan-waiting-time/">How Long Does Tirumala Darshan Actually Take?</a></li>
   <li><a href="/tirumala-darshan-ke-prakar/">All Types of Tirumala Darshan — Everything in One Place</a></li>
 </ul>
-<h2 id="faq">Frequently Asked Questions — FAQ</h2>
+<h2 id="faq">Frequently Asked Questions — TTD Tatkal Darshan</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="Does TTD have an official tatkal darshan ticket?" answer-0="No. TTD has no IRCTC-style tatkal quota. Online darshan quotas are released two to three months in advance, and once they sell out there is no official last-minute paid ticket. The free Sarva Darshan (SSD time-slot token) is always available as a walk-in option, but the queue can run 18–24 hours on busy days." count="1" html="true"]
 
 [sc_fs_multi_faq headline-0="h4" question-0="If someone cancels a darshan slot, can I grab it?" answer-0="Sometimes, yes. Cancelled slots can reopen on the official TTD portal and app, mostly late at night between 10 PM and midnight. Check regularly and book within 2–3 minutes of a slot appearing, because it fills very fast. Treat this as a backup plan, not your main one." count="1" html="true"]
