@@ -67,7 +67,7 @@ Tirumala's grandest festival — 9 days of daily vahana processions (Garuda Vaha
 On this day the <strong>Vaikunta Dwaram</strong> (the gateway to the Lord's heavenly abode) is opened, and devotees pass through it — believed to be exceptionally auspicious. The darshan runs over multiple days. Crowds are extreme (often managed via online e-dip tokens), and it is the busiest period of the year.
 
 <h3>3. Ratha Saptami (~late Jan / early Feb 2026)</h3>
-A single day on which the Lord is taken out on <strong>all seven vahanas</strong> across the day — effectively a one-day Brahmotsavam. Importantly, this is a free, open spectacle you can watch without a darshan ticket. A favourite for those who want the Brahmotsavam feel in a single day.
+A single day on which the Lord is taken out on <strong>all seven vahanas</strong> across the day — effectively a one-day Brahmotsavam. Importantly, this is a free, open spectacle you can watch without a darshan ticket. A favourite for those who want the Brahmotsavam feel in a single day. Full guide: <a href="/ratha-saptami-tirumala-guide/">Ratha Saptami Tirumala</a>.
 
 <h3>4. Vasanthotsavam (spring)</h3>
 A three-day spring festival with the deities and special rituals, in the pleasant March–April window — beautiful and comparatively less overwhelming than Brahmotsavam.
