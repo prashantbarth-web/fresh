@@ -116,7 +116,7 @@ Kanipakam pairs beautifully with <a href="/sri-kalahasti-temple-guide/">Sri Kala
 <h2>Where Kanipakam fits in your Tirupati plan</h2>
 <ul>
   <li><strong>2-day trip:</strong> a Kanipakam morning, then Tirumala — or Kanipakam on the way out</li>
-  <li><strong>3-day trip:</strong> Tirumala + Tiruchanur + Kanipakam + Kalahasti comfortably</li>
+  <li><strong>3-day trip:</strong> Tirumala + Tiruchanur + Kanipakam + Kalahasti comfortably — see the <a href="/tirupati-3-day-itinerary/">Tirupati 3-day itinerary</a></li>
   <li><strong>Tradition-minded:</strong> Ganesha (Kanipakam) first, then Venkateswara (Tirumala)</li>
 </ul>
 See the <a href="/tirupati-2-day-itinerary/">Tirupati 2-day itinerary</a> and pair it with the <a href="/tiruchanur-padmavathi-temple-guide/">Tiruchanur Padmavathi temple</a> for a fuller circuit.
