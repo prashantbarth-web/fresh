@@ -231,7 +231,7 @@ Tirupati city and the Tirumala temple are different places — the hill temple i
 </tr>
 </tbody>
 </table>
-💡 <strong>Insider Tip:</strong> The TTD bus is the most practical — frequent, cheap, and reliable, running from early morning till late. The full breakdown is in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala travel guide</a>.
+💡 <strong>Insider Tip:</strong> The TTD bus is the most practical — frequent, cheap, and reliable, running from early morning till late. The full breakdown is in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala travel guide</a>.
 <h2>North India to Tirupati — common myths vs reality</h2>
 First-timers from Delhi, UP and Bihar carry a few assumptions that simply are not true:
 <ul>
@@ -285,12 +285,12 @@ For the detailed version, see the <a href="/tirupati-2-day-itinerary/">Tirupati 
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala — every way to reach the hill temple</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">Tirupati to Tirumala — every way to reach the hill temple</a></li>
  	<li><a href="/tirupati-2-day-itinerary/">Tirupati 2-day itinerary — Day 1 and Day 2 plan</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD ₹300 Special Entry Darshan — step-by-step online booking</a></li>
- 	<li><a href="/tirumala-darshan-best-time/">Best time for Tirumala darshan — how to avoid the crowd</a></li>
+ 	<li><a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">Best time for Tirumala darshan — how to avoid the crowd</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati packing list — what not to forget</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala darshan — which one is right for you</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala darshan — which one is right for you</a></li>
 </ul>
 <h2>Frequently Asked Questions — Delhi to Tirupati</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="How long does it take to travel from Delhi to Tirupati?" answer-0="By direct train it is roughly 32–36 hours over about 2,300 km. By air, the direct Delhi–Tirupati flight is around 2 hours of flying, or about 5–7 hours door-to-door once you add airport time. A connecting flight via Hyderabad or Chennai takes about 5–8 hours total. A bus via Hyderabad is over 30 hours and more tiring than the train." count="1" html="true"]

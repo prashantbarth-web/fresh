@@ -112,7 +112,7 @@ If you cannot get a confirmed berth on a near-direct Varanasi–Tirupati train, 
 </tr>
 </tbody>
 </table>
-⚠️ <strong>Important:</strong> Keep at least a 3-hour gap for the Hyderabad connection. Secunderabad (SC) and Kacheguda (KCG) are two different stations, so check which one your train arrives at before booking the onward leg. The detailed breakdown is in the <a href="/hyderabad-se-tirupati-kaise-jayen/">Hyderabad to Tirupati guide</a>.
+⚠️ <strong>Important:</strong> Keep at least a 3-hour gap for the Hyderabad connection. Secunderabad (SC) and Kacheguda (KCG) are two different stations, so check which one your train arrives at before booking the onward leg. The detailed breakdown is in the <a href="/hyderabad-to-tirupati/">Hyderabad to Tirupati guide</a>.
 <h2>Flight option from Varanasi</h2>
 There is no direct flight between Varanasi (VNS) and Tirupati (TIR) — you fly with a connection, usually through Hyderabad, Chennai or Bangalore.
 <table>
@@ -229,7 +229,7 @@ Getting off at Tirupati station, the temple is still up the hill — the ghat ro
 </tr>
 </tbody>
 </table>
-One honest piece of advice: I once tried to start the footpath straight after a 35-hour train ride. The spirit was willing, but the legs gave up halfway. Rest one night in Tirupati first, then trek or take the bus the next morning. Full options are in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala travel guide</a>, and trekkers should read the <a href="/alipiri-footpath-trek-guide/">Alipiri footpath trek guide</a>.
+One honest piece of advice: I once tried to start the footpath straight after a 35-hour train ride. The spirit was willing, but the legs gave up halfway. Rest one night in Tirupati first, then trek or take the bus the next morning. Full options are in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala travel guide</a>, and trekkers should read the <a href="/alipiri-footpath-trek-guide/">Alipiri footpath trek guide</a>.
 
 💡 <strong>Insider Tip:</strong> Free buses also run from near the railway station to Alipiri for pilgrims who plan to walk up — handy if you want the footpath darshan but don't want to pay for a cab to the base.
 <h2>A practical 4-day plan from Varanasi</h2>
@@ -277,7 +277,7 @@ This is the step Purvanchal pilgrims most often forget. The day your train ticke
  	<li>Carry original Aadhaar for every adult — ID is checked at the counters in 2026.</li>
  	<li>If you can't get a paid slot, free Sarva Darshan (SSD token) is always available, but the queue can run long.</li>
 </ul>
-The paid Special Entry Darshan rules have been changing, so confirm current options on the official site — the step-by-step is in the <a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan booking guide</a>. To understand all the darshan types first, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+The paid Special Entry Darshan rules have been changing, so confirm current options on the official site — the step-by-step is in the <a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan booking guide</a>. To understand all the darshan types first, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 <h2>For Bihar &amp; Purvanchal pilgrims — going via Varanasi</h2>
 Varanasi (BSB/MUV) is a major rail hub, so Patna, Gaya, Prayagraj, Mirzapur and Gorakhpur all feed into it well.
 <table>
@@ -318,14 +318,14 @@ Varanasi (BSB/MUV) is a major rail hub, so Patna, Gaya, Prayagraj, Mirzapur and 
  	<li>❌ <strong>Heading straight into the queue off the train:</strong> After 35–40 hours, jumping into the Sarva Darshan line is brutal. Rest a night in Tirupati first.</li>
  	<li>❌ <strong>Not planning darshan early:</strong> Check availability the same day you book your train. A date 40+ days out? Look now, not later.</li>
  	<li>❌ <strong>Leaving the return ticket for later:</strong> These trains have limited frequency. Book your return at the same time as your onward journey.</li>
- 	<li>❌ <strong>Ignoring the dress code:</strong> Wrong outfit means no entry at Tirumala. Read the <a href="/tirumala-dress-code-rules/">dress code rules</a> at home and pack accordingly.</li>
+ 	<li>❌ <strong>Ignoring the dress code:</strong> Wrong outfit means no entry at Tirumala. Read the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a> at home and pack accordingly.</li>
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/delhi-se-tirupati-kaise-jayen/">Delhi to Tirupati — Train, Flight &amp; Bus Guide 2026</a></li>
- 	<li><a href="/lucknow-se-tirupati-kaise-jayen/">Lucknow to Tirupati — Best Route Guide</a></li>
+ 	<li><a href="/delhi-se-tirupati/">Delhi to Tirupati — Train, Flight &amp; Bus Guide 2026</a></li>
+ 	<li><a href="/lucknow-to-tirupati/">Lucknow to Tirupati — Best Route Guide</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan Booking — Step by Step</a></li>
- 	<li><a href="/tirumala-darshan-best-time/">Best Time for Tirumala Darshan — Avoid the Crowds</a></li>
+ 	<li><a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">Best Time for Tirumala Darshan — Avoid the Crowds</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati Yatra Packing List — Don't Forget These</a></li>
  	<li><a href="/tirupati-yatra-total-budget/">Tirupati Yatra Total Budget — Realistic Breakdown</a></li>
 </ul>

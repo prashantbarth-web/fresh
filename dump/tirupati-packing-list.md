@@ -54,13 +54,13 @@ If documents are missing, nothing else matters. Pack them before anything else.
 </tr>
 </tbody>
 </table>
-⚠️ <strong>Important:</strong> Carry the <em>original</em> Aadhaar, not a photocopy. DigiLocker is accepted at some counters, but the original is safest. In 2026, free Sarva Darshan needs an SSD token collected in Tirupati with Aadhaar — so keep IDs handy from the start. See <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a> for which token you need.
+⚠️ <strong>Important:</strong> Carry the <em>original</em> Aadhaar, not a photocopy. DigiLocker is accepted at some counters, but the original is safest. In 2026, free Sarva Darshan needs an SSD token collected in Tirupati with Aadhaar — so keep IDs handy from the start. See <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a> for which token you need.
 
 [caption id="attachment_143" align="alignnone" width="1024"]<img class="wp-image-143 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/05/tirupati-yatra-packing-list-1024x512.webp" alt="तिरुपति यात्रा के लिए जरूरी सामान की packing list" width="1024" height="512" /> Tirupati Yatra Packing List[/caption]
 <h2>Clothes — what to pack for darshan</h2>
 You'll need two kinds of clothing: traditional for darshan, and comfortable for travel.
 
-<strong>Men:</strong> dhoti + kurta (ideal) or pyjama-kurta; veshti/panche also fine. <strong>Women:</strong> saree, or salwar-kameez/churidar with a dupatta and sleeves. Avoid jeans, leggings worn alone, and sleeveless — they're refused at the gate. Full rules are in the <a href="/tirumala-dress-code-rules/">dress code guide</a>.
+<strong>Men:</strong> dhoti + kurta (ideal) or pyjama-kurta; veshti/panche also fine. <strong>Women:</strong> saree, or salwar-kameez/churidar with a dupatta and sleeves. Avoid jeans, leggings worn alone, and sleeveless — they're refused at the gate. Full rules are in the <a href="/tirumala-dress-code-rules-2026-2026/">dress code guide</a>.
 
 For footwear, carry comfortable, easy-to-remove slippers (you'll leave them at a stand), and pack socks since floors can be hot. Bring an old pair you won't mind misplacing in the crowd.
 
@@ -74,7 +74,7 @@ The wait can run several hours to 18–24 on busy days, so pack for it:
  	<li><strong>Power bank</strong> — for the long hours.</li>
  	<li><strong>A small cloth pouch</strong> — for cash and ID, since your leather wallet goes in a locker.</li>
 </ul>
-💡 <strong>Insider Tip:</strong> You don't need to over-pack food — TTD's free <a href="/tirumala-annadanam-guide/">Annadanam</a> serves meals during the wait. See the <a href="/tirumala-darshan-waiting-time/">waiting time guide</a> to gauge how long to prepare for.
+💡 <strong>Insider Tip:</strong> You don't need to over-pack food — TTD's free <a href="/tirumala-annadanam-guide/">Annadanam</a> serves meals during the wait. See the <a href="/tirumala-darshan-waiting-time-2026-2026/">waiting time guide</a> to gauge how long to prepare for.
 <h2>Medicines &amp; first-aid</h2>
 Long queues, heat and tiredness take a toll — a small medicine kit is wise.
 <ul>
@@ -136,7 +136,7 @@ Here's something most packing lists miss: Tirumala sits up in the hills and is n
 <h2>Packing for children &amp; seniors</h2>
 <strong>Children:</strong> traditional clothes, an extra set, snacks/juice, wet wipes, ORS, a favourite toy/book for the wait, and paediatric medicines. For infants under five, add diapers, baby food and a small blanket — but honestly, an 18–24 hour free queue is very hard with a baby, so consider the <a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan</a>. More in the <a href="/tirupati-with-kids-family-guide/">family guide</a>.
 
-<strong>Seniors (65+):</strong> walking stick, flat non-slip footwear, Aadhaar for the <a href="/senior-citizen-tirumala-darshan/">senior-citizen darshan</a>, a doctor's prescription, regular BP/heart/diabetes medicines, and a warm layer for the hill.
+<strong>Seniors (65+):</strong> walking stick, flat non-slip footwear, Aadhaar for the <a href="/senior-citizens-special-facities/">senior-citizen darshan</a>, a doctor's prescription, regular BP/heart/diabetes medicines, and a warm layer for the hill.
 <h2>Printable checklist</h2>
 <ul>
  	<li>✅ <strong>Documents:</strong> original Aadhaar (all), darshan token/ticket (print + screenshot), travel ticket, room confirmation, senior card if applicable</li>
@@ -160,9 +160,9 @@ For a broader trip-planning version, see the full <a href="/tirupati-pilgrimage-
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirumala-dress-code-rules/">Tirumala Dress Code Rules — What to Wear</a></li>
+ 	<li><a href="/tirumala-dress-code-rules-2026-2026/">Tirumala Dress Code Rules — What to Wear</a></li>
  	<li><a href="/tirumala-mobile-locker-guide/">Tirumala Mobile &amp; Locker Guide</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
  	<li><a href="/tirupati-with-kids-family-guide/">Tirupati With Kids — Family Travel Guide</a></li>
  	<li><a href="/tirupati-pilgrimage-checklist/">Complete Tirupati Pilgrimage Checklist</a></li>
 </ul>

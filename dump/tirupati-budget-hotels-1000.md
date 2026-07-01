@@ -22,7 +22,7 @@ A quick word from experience: I've made the Tirumala trip many times, in both pe
 <h2>Tirupati budget hotels under ₹1000 — the 4 real options</h2>
 North Indians often assume a pilgrim trip down south means high room costs. Tirupati is the exception — as a pilgrimage city, it has options for every income level. You just need to know which is which, because they're booked very differently.
 
-Before anything else, fix one common confusion: <strong>Tirupati and Tirumala are not the same place.</strong> The railway station, bus stand and almost all budget hotels are in Tirupati city at the foothills. The temple is up in Tirumala, about 22 km up the ghat road. There are no private hotels on the hill — only TTD accommodation. So your budget room will almost always be in Tirupati town, and you'll <a href="/tirupati-se-tirumala-kaise-jayen/">travel up to Tirumala by bus</a> for darshan.
+Before anything else, fix one common confusion: <strong>Tirupati and Tirumala are not the same place.</strong> The railway station, bus stand and almost all budget hotels are in Tirupati city at the foothills. The temple is up in Tirumala, about 22 km up the ghat road. There are no private hotels on the hill — only TTD accommodation. So your budget room will almost always be in Tirupati town, and you'll <a href="/tirupati-to-tirumala/">travel up to Tirumala by bus</a> for darshan.
 
 [caption id="attachment_1071" align="alignnone" width="1024"]<img class="wp-image-1071 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/06/ttd-srinivasam-guest-house-tirupati-1024x537.webp" alt="TTD Srinivasam guest house Tirupati — subsidized pilgrim accommodation" width="1024" height="537" /> TTD Srinivasam guest house illustration[/caption]
 <h3>Option 1 — TTD guest houses in Tirupati town (cheapest official)</h3>
@@ -112,7 +112,7 @@ Honest talk on what each price band really delivers:
 <h2>The truth about peak season</h2>
 During Brahmotsavam (around September–October), Vaikunta Ekadasi (December–January) and summer holidays (April–June), Tirupati room rates jump 3–5x. On these dates, a decent ₹1,000 private room is very hard to find.
 
-Your realistic peak-season options are: register at a dharamshala on arrival, use a TTD waiting hall (free, but you sit on the floor), or stay in a nearby town like Renigunta or Chittoor where rates are lower. There has also been talk of accommodation reforms linking rooms to darshan — see the <a href="/ttd-accommodation-reform-news/">TTD accommodation reform update</a>, and always verify current rules on tirumala.org.
+Your realistic peak-season options are: register at a dharamshala on arrival, use a TTD waiting hall (free, but you sit on the floor), or stay in a nearby town like Renigunta or Chittoor where rates are lower. There has also been talk of accommodation reforms linking rooms to darshan — see the <a href="/tirupati-accommodation-reform-2026/">TTD accommodation reform update</a>, and always verify current rules on tirumala.org.
 <h2>Which platform should you book on?</h2>
 Booking on the wrong platform is how people end up overpaying. Keep it simple:
 <ul>
@@ -137,7 +137,7 @@ Booking on the wrong platform is how people end up overpaying. Keep it simple:
  	<li><a href="/ttd-accommodation-online-booking/">TTD Guest House Online Booking — Step by Step</a></li>
  	<li><a href="/tirupati-dharamshala-guide/">Tirupati Dharamshala Guide — Free &amp; Low-Cost Options</a></li>
  	<li><a href="/tirupati-railway-station-hotels/">Best Hotels Near Tirupati Railway Station</a></li>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala — Bus, Taxi &amp; Footpath Options</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">Tirupati to Tirumala — Bus, Taxi &amp; Footpath Options</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati Yatra Packing List — Don't Forget These</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tirupati Budget Hotels</h2>

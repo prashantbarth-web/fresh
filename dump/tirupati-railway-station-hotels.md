@@ -199,7 +199,7 @@ At the station exit, men asking "hotel chahiye?" are commission agents — they'
 </ul>
 ⚠️ <strong>Important:</strong> Tirupati is a predominantly vegetarian city, and non-veg around the station is extremely limited. If you do eat non-veg, avoid it the day before going to Tirumala — the temple area is purely vegetarian, and a prepared body and mind make for a better darshan.
 <h2>Station to Tirumala bus stand</h2>
-The APSRTC bus stand (for Tirumala buses) is about 500 m (5–7 min walk) from the railway station. Station-area hotels are within walking distance of it — the single biggest advantage of staying here. From the bus stand, Tirumala buses run every 5–10 minutes (around ₹65–₹100). See the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala guide</a>.
+The APSRTC bus stand (for Tirumala buses) is about 500 m (5–7 min walk) from the railway station. Station-area hotels are within walking distance of it — the single biggest advantage of staying here. From the bus stand, Tirumala buses run every 5–10 minutes (around ₹65–₹100). See the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala guide</a>.
 <h2>❌ Common mistakes</h2>
 <ul>
  	<li>❌ <strong>Walking in without a booking in peak season:</strong> Oct–Jan and festivals run the station area at 100% occupancy. No booking means either a grubby room or a 3x rate. Always book ahead.</li>
@@ -215,7 +215,7 @@ The APSRTC bus stand (for Tirumala buses) is about 500 m (5–7 min walk) from t
  	<li><a href="/tirupati-budget-hotels-1000/">Tirupati hotels under ₹1,000 — the budget list</a></li>
  	<li><a href="/tirupati-dharamshala-guide/">Tirupati dharamshalas — free and low-cost stay</a></li>
  	<li><a href="/ttd-accommodation-online-booking/">TTD guest houses and cottages — booking and availability</a></li>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala — bus, taxi and footpath</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">Tirupati to Tirumala — bus, taxi and footpath</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tirupati Railway Station Hotels</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="What is the cheapest hotel near Tirupati railway station?" answer-0="Basic non-AC rooms start at ₹500–600 in the station area, and AC rooms at ₹700–900 in the budget category. Rooms under ₹400 exist but have questionable cleanliness and safety, so they are not recommended." count="1" html="true"]

@@ -22,7 +22,7 @@ A note from experience: I've been to Tirumala several times and met families fro
 <h2>💡 Gap: the facility is now the fast Supadham entry (not a 2–4 hour counter)</h2>
 Most older guides describe a "Foreign National Counter" with a 2–4 hour wait. In 2026 TTD operates a dedicated fast entry for overseas pilgrims — the <strong>Supadham (Supatham) Entry</strong> — which is much quicker, often around 20–45 minutes and generally within about 1.5 hours, and it's free for those who qualify.
 
-You report at the special darshan complex (Supadham entrance), fill a short form with your personal and visa/passport details, submit the documents, and join the priority line. It's designed precisely for tired travellers arriving from abroad, so it's far gentler than the regular queue. The wider darshan picture is in <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>, and queue realities in the <a href="/tirumala-darshan-waiting-time/">waiting time guide</a>.
+You report at the special darshan complex (Supadham entrance), fill a short form with your personal and visa/passport details, submit the documents, and join the priority line. It's designed precisely for tired travellers arriving from abroad, so it's far gentler than the regular queue. The wider darshan picture is in <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>, and queue realities in the <a href="/tirumala-darshan-waiting-time-2026-2026/">waiting time guide</a>.
 
 [caption id="attachment_239" align="alignnone" width="1024"]<img class="wp-image-239 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/05/ttd_nri_document_checklist-1024x591.webp" alt="TTD NRI Counter" width="1024" height="591" /> TTD NRI Counter[/caption]
 <h2>💡 Gap: do NRIs with an Indian passport qualify?</h2>
@@ -107,7 +107,7 @@ Carry originals — photocopies or digital copies alone are generally not accept
 </table>
 Sevas and rooms can be booked ahead via the <a href="/ttd-seva-ticket-booking/">seva booking guide</a> and the <a href="/ttd-accommodation-online-booking/">accommodation booking guide</a>. For a faster paid tier, the <a href="/tirumala-privilege-darshan-guide/">VIP / privilege darshan guide</a> covers SRIVANI.
 <h2>Dress code — don't get stopped at the gate</h2>
-The dress code applies to everyone, and overseas pilgrims often arrive in western wear and get turned away. Men: dhoti/veshti or kurta-pyjama (a shirt with formal trousers is generally fine for general darshan). Women: saree or salwar-kameez with a dupatta — no jeans, shorts, sleeveless or western dresses. Traditional wear can be bought/rented near the temple, but carrying your own is safer. Full details are in the <a href="/tirumala-dress-code-rules/">dress code rules</a>.
+The dress code applies to everyone, and overseas pilgrims often arrive in western wear and get turned away. Men: dhoti/veshti or kurta-pyjama (a shirt with formal trousers is generally fine for general darshan). Women: saree or salwar-kameez with a dupatta — no jeans, shorts, sleeveless or western dresses. Traditional wear can be bought/rented near the temple, but carrying your own is safer. Full details are in the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a>.
 <h2>❌ Common Mistakes — NRI / foreign darshan</h2>
 <ul>
  	<li>❌ <strong>Carrying a photocopy instead of the original passport:</strong> The counter needs originals for every member.</li>
@@ -120,9 +120,9 @@ The dress code applies to everyone, and overseas pilgrims often arrive in wester
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan ₹300 Booking — Step by Step</a></li>
- 	<li><a href="/tirumala-dress-code-rules/">Tirumala Dress Code Rules — What to Wear</a></li>
+ 	<li><a href="/tirumala-dress-code-rules-2026-2026/">Tirumala Dress Code Rules — What to Wear</a></li>
  	<li><a href="/tirupati-airport-guide/">Tirupati Airport Guide — Flights &amp; Reaching Tirumala</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati Yatra Packing List — Don't Forget These</a></li>
 </ul>

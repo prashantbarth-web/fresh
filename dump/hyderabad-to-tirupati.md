@@ -282,7 +282,7 @@ A recommended plan:
  	<li>Take an overnight bus/train the next evening (or a short flight) to Tirupati.</li>
  	<li>Tirupati → Tirumala by TTD bus.</li>
 </ol>
-💡 <strong>Insider Tip:</strong> If you'll catch an early bus/train, stay near MGBS or Secunderabad so the morning departure is stress-free. See the <a href="/delhi-se-tirupati-kaise-jayen/">Delhi to Tirupati guide</a> and the <a href="/lucknow-se-tirupati-kaise-jayen/">Lucknow to Tirupati guide</a> for the first leg.
+💡 <strong>Insider Tip:</strong> If you'll catch an early bus/train, stay near MGBS or Secunderabad so the morning departure is stress-free. See the <a href="/delhi-se-tirupati/">Delhi to Tirupati guide</a> and the <a href="/lucknow-to-tirupati/">Lucknow to Tirupati guide</a> for the first leg.
 <h2>After reaching Tirupati — how to get to Tirumala</h2>
 From the Tirupati bus stand or railway station, Tirumala is about 22 km up the ghat road.
 <table>
@@ -319,7 +319,7 @@ From the Tirupati bus stand or railway station, Tirumala is about 22 km up the g
 </tr>
 </tbody>
 </table>
-Full details are in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala travel guide</a>, and trekkers should read the <a href="/alipiri-footpath-trek-guide/">Alipiri footpath trek guide</a>.
+Full details are in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala travel guide</a>, and trekkers should read the <a href="/alipiri-footpath-trek-guide/">Alipiri footpath trek guide</a>.
 <h2>Book your darshan before leaving Hyderabad</h2>
 The moment your travel is confirmed, check darshan availability the same day on the official TTD website or app.
 <ul>
@@ -327,7 +327,7 @@ The moment your travel is confirmed, check darshan availability the same day on 
  	<li>Free Sarva Darshan (SSD token) is always available, but the queue can run long.</li>
  	<li>Carry original Aadhaar for every adult — ID is checked at the counters in 2026.</li>
 </ul>
-The paid Special Entry Darshan rules have been changing, so confirm current options on the official site — the step-by-step is in the <a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan booking guide</a>. To understand all darshan types first, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+The paid Special Entry Darshan rules have been changing, so confirm current options on the official site — the step-by-step is in the <a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan booking guide</a>. To understand all darshan types first, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 <h2>❌ Common Mistakes — Hyderabad to Tirupati</h2>
 <ul>
  	<li>❌ <strong>Underestimating the distance:</strong> This is a 430–450 km road / 660+ km rail trip, not a 5-hour hop. Plan it as an overnight journey, not a quick day run.</li>
@@ -336,14 +336,14 @@ The paid Special Entry Darshan rules have been changing, so confirm current opti
  	<li>❌ <strong>Booking a chair car for the train:</strong> It's a 12+ hour overnight ride — take a Sleeper or 3AC berth, not a sitting class.</li>
  	<li>❌ <strong>Not pre-booking in peak season:</strong> Around Brahmotsavam and Vaikunta Ekadasi, buses and trains fill fast. Reserve 2–3 days ahead.</li>
  	<li>❌ <strong>Forgetting the Tirupati-to-Tirumala leg:</strong> Add another ~22 km and 45–60 minutes by TTD bus on top of your arrival time.</li>
- 	<li>❌ <strong>Ignoring the dress code:</strong> Wrong outfit means no entry at Tirumala. Read the <a href="/tirumala-dress-code-rules/">dress code rules</a> and pack accordingly.</li>
+ 	<li>❌ <strong>Ignoring the dress code:</strong> Wrong outfit means no entry at Tirumala. Read the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a> and pack accordingly.</li>
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/chennai-se-tirumala-kaise-jayen/">Chennai to Tirumala — Fastest &amp; Cheapest Route</a></li>
- 	<li><a href="/delhi-se-tirupati-kaise-jayen/">Delhi to Tirupati — Train, Flight &amp; Bus Guide</a></li>
+ 	<li><a href="/chennai-to-tirumala/">Chennai to Tirumala — Fastest &amp; Cheapest Route</a></li>
+ 	<li><a href="/delhi-se-tirupati/">Delhi to Tirupati — Train, Flight &amp; Bus Guide</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan Booking — Step by Step</a></li>
- 	<li><a href="/tirumala-darshan-best-time/">Best Time for Tirumala Darshan — Avoid the Crowds</a></li>
+ 	<li><a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">Best Time for Tirumala Darshan — Avoid the Crowds</a></li>
  	<li><a href="/ttd-accommodation-online-booking/">TTD Accommodation Online Booking Guide</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati Yatra Packing List — Don't Forget These</a></li>
 </ul>

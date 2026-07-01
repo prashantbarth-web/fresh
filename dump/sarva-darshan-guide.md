@@ -22,7 +22,7 @@ A note from experience: I've done the free darshan more than once, and the pilgr
 <h2>What is Sarva Darshan?</h2>
 "Sarva" means "all." Sarva Darshan is the arrangement where any pilgrim can have darshan of Sri Venkateswara Swamy free of charge. Of the roughly 70,000–80,000 pilgrims who come to Tirumala daily, most go through Sarva Darshan — which is exactly why the wait is so long.
 
-Inside the sanctum, your darshan lasts just 30–60 seconds. For that one moment, devotees wait for hours. That's the reality of the free route, and accepting it upfront makes the experience far easier. To see how it compares with the paid and footpath options, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+Inside the sanctum, your darshan lasts just 30–60 seconds. For that one moment, devotees wait for hours. That's the reality of the free route, and accepting it upfront makes the experience far easier. To see how it compares with the paid and footpath options, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 
 [caption id="attachment_135" align="alignnone" width="1024"]<img class="wp-image-135 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/05/tirumala-vqc-sarva-darshan-queue-1024x683.webp" alt="तिरुमला Sarva Darshan token — हाथ पर stamp" width="1024" height="683" /> AI-generated illustration for visual representation purposes only.[/caption]
 <h2>💡 Gap: the SSD shift — get your token in Tirupati first</h2>
@@ -36,7 +36,7 @@ Where to collect the free SSD token:
 </ul>
 The token carries a time slot — you then report at the Tirumala VQC in that window. A few practical truths: tokens are first-come-first-served and can finish quickly, original Aadhaar is mandatory for everyone, and counter timings have varied between reports (some say early morning, some afternoon). So reach early and confirm the current timing.
 
-⚠️ <strong>Important:</strong> Don't head up to Tirumala assuming you'll get free darshan on the spot — without an SSD token you're pushed to the slow non-token line. Confirm the latest token rules and timings on <a href="https://www.tirumala.org/" rel="nofollow">tirumala.org</a>, and understand the token types in the <a href="/tirumala-darshan-token-system/">token system guide</a>.
+⚠️ <strong>Important:</strong> Don't head up to Tirumala assuming you'll get free darshan on the spot — without an SSD token you're pushed to the slow non-token line. Confirm the latest token rules and timings on <a href="https://www.tirumala.org/" rel="nofollow">tirumala.org</a>, and understand the token types in the <a href="/tirumala-darshan-token-system-2026-epass-vs-physical-token-vs-online-slot-2026-epass-vs-physical-token-vs-online-slot/">token system guide</a>.
 <h2>How the queue works at Tirumala</h2>
 Once you reach the VQC in your slot, the flow is batch-wise:
 <ol>
@@ -46,7 +46,7 @@ Once you reach the VQC in your slot, the flow is batch-wise:
  	<li>Darshan — 30–60 seconds.</li>
  	<li>Exit, where free laddu prasadam is given on submitting your token.</li>
 </ol>
-💡 <strong>Insider Tip:</strong> Inside the halls you often sit on the floor for hours — carry a thin sheet or mat, water and light snacks. There are toilets, drinking water and even Annadanam (free meals) during the wait. More on the layout in the <a href="/vqc-vaikuntam-queue-complex-guide/">VQC guide</a> and free meals in the <a href="/tirumala-annadanam-guide/">Annadanam guide</a>.
+💡 <strong>Insider Tip:</strong> Inside the halls you often sit on the floor for hours — carry a thin sheet or mat, water and light snacks. There are toilets, drinking water and even Annadanam (free meals) during the wait. More on the layout in the <a href="/vaikuntam-queue-complex-vqc-guide/">VQC guide</a> and free meals in the <a href="/tirumala-annadanam-guide/">Annadanam guide</a>.
 <h2>Sarva Darshan waiting time</h2>
 Everyone asks "how many hours?" — and the honest answer is, it depends entirely on the day's crowd.
 <table>
@@ -81,7 +81,7 @@ Everyone asks "how many hours?" — and the honest answer is, it depends entirel
 </tr>
 </tbody>
 </table>
-You can check the live status on the boards outside the VQC and on tirumala.org. For a deeper breakdown, see the honest <a href="/tirumala-darshan-waiting-time/">waiting time guide</a>.
+You can check the live status on the boards outside the VQC and on tirumala.org. For a deeper breakdown, see the honest <a href="/tirumala-darshan-waiting-time-2026-2026/">waiting time guide</a>.
 <h2>💡 Gap: the "night is less crowded" myth</h2>
 A lot of pilgrims believe "we'll go at night, it'll be empty." It isn't. Tirumala stays crowded around the clock — sometimes more at night, because many pilgrims time their arrival for then. Night doesn't shrink the queue.
 
@@ -121,7 +121,7 @@ What actually helps is the day of the week and getting your token early: Tuesday
 </tr>
 </tbody>
 </table>
-Choose Sarva Darshan if you're on a tight budget, travelling solo or with fit friends, or you couldn't get a paid slot. If you're with elderly parents or small children, the <a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan</a> is far gentler. Note that seniors (65+) have a separate, much shorter queue — use the <a href="/senior-citizen-tirumala-darshan/">senior citizen darshan</a> for them rather than the free line.
+Choose Sarva Darshan if you're on a tight budget, travelling solo or with fit friends, or you couldn't get a paid slot. If you're with elderly parents or small children, the <a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan</a> is far gentler. Note that seniors (65+) have a separate, much shorter queue — use the <a href="/senior-citizens-special-facities/">senior citizen darshan</a> for them rather than the free line.
 <h2>Tips to reduce your wait</h2>
 <ul>
  	<li><strong>Go Tuesday–Thursday:</strong> The wait can be 30–40% shorter than on weekends.</li>
@@ -139,15 +139,15 @@ Choose Sarva Darshan if you're on a tight budget, travelling solo or with fit fr
  	<li>❌ <strong>Carrying a phone or leather into the queue:</strong> Both must go in lockers first; see the <a href="/tirumala-mobile-locker-guide/">locker guide</a>.</li>
  	<li>❌ <strong>Putting elders/kids through the free queue:</strong> An 18–24 hour wait is unrealistic — use the senior-citizen darshan or the ₹300 option.</li>
  	<li>❌ <strong>Going on a festival day:</strong> Brahmotsavam and Vaikunta Ekadasi mean 24–30+ hour waits. Avoid them for free darshan.</li>
- 	<li>❌ <strong>Ignoring the dress code:</strong> Wrong attire means no entry — read the <a href="/tirumala-dress-code-rules/">dress code rules</a> first.</li>
+ 	<li>❌ <strong>Ignoring the dress code:</strong> Wrong attire means no entry — read the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a> first.</li>
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
- 	<li><a href="/tirumala-darshan-token-system/">Tirumala Darshan Token System — ePass vs Physical Token</a></li>
- 	<li><a href="/tirumala-darshan-waiting-time/">Tirumala Darshan Waiting Time — Honest Guide</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
+ 	<li><a href="/tirumala-darshan-token-system-2026-epass-vs-physical-token-vs-online-slot-2026-epass-vs-physical-token-vs-online-slot/">Tirumala Darshan Token System — ePass vs Physical Token</a></li>
+ 	<li><a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala Darshan Waiting Time — Honest Guide</a></li>
  	<li><a href="/divya-darshan-free-token-guide/">Divya Darshan — Free Token Guide for Footpath Pilgrims</a></li>
- 	<li><a href="/vqc-vaikuntam-queue-complex-guide/">Vaikuntam Queue Complex (VQC) Guide</a></li>
+ 	<li><a href="/vaikuntam-queue-complex-vqc-guide/">Vaikuntam Queue Complex (VQC) Guide</a></li>
 </ul>
 <h2>Frequently Asked Questions — Sarva Darshan</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="Is Sarva Darshan free at Tirumala?" answer-0="Yes, Sarva Darshan is completely free. In 2026 it runs on the SSD (Slotted Sarva Darshan) system, so you collect a free time-slot token — there's no charge for it — and report at your slot. You'll still wait several hours, often 18–24 on busy days, but you pay nothing for the darshan." count="1" html="true"]

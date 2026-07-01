@@ -91,7 +91,7 @@ After the ritual you leave through a separate exit. For a regular darshan afterw
 <h2>"I don't know how to wear a dhoti" — what to do</h2>
 This is a real, practical worry for many North Indian pilgrims. Near the reporting point and in the main Tirupati bazaar, dhotis are available to hire for ₹50–100, and someone there will usually help you drape it. There is nothing to be embarrassed about — it is an everyday situation here.
 
-⚠️ <strong>Important:</strong> Wearing a dhoti over jeans does not pass — it must be full traditional dress. The check happens at the reporting point, and improper dress means being turned back. Read the <a href="/tirumala-dress-code-rules/">Tirumala dress code rules</a> before you go.
+⚠️ <strong>Important:</strong> Wearing a dhoti over jeans does not pass — it must be full traditional dress. The check happens at the reporting point, and improper dress means being turned back. Read the <a href="/tirumala-dress-code-rules-2026-2026/">Tirumala dress code rules</a> before you go.
 <h2>Kalyanotsavam vs other sevas</h2>
 <table>
 <thead>
@@ -133,7 +133,7 @@ Besides Tirumala, Kalyanotsavam is also performed at the Govindaraja Swamy templ
 <h2>When is availability easiest?</h2>
 Kalyanotsavam slots fill quickly on weekends and around festivals; weekday mornings are comparatively easier. Book as soon as the month's quota opens, and if your preferred date is full, check the next 2–3 dates — flexibility usually gets you a slot. If you plan to stay overnight, book the seva first and <a href="/ttd-tirumala-cottages-booking/">arrange Tirumala accommodation</a> afterwards.
 <h2>Does the seva ticket also include darshan?</h2>
-No — this confusion is worth clearing every time. The Kalyanotsavam ticket and the <a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan ticket</a> are separate; book both. During the seva you get close access in the ritual hall, but that does not replace a main sanctum darshan. To understand how all the options fit together, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+No — this confusion is worth clearing every time. The Kalyanotsavam ticket and the <a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan ticket</a> are separate; book both. During the seva you get close access in the ritual hall, but that does not replace a main sanctum darshan. To understand how all the options fit together, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 <h2>❌ Common mistakes</h2>
 <ul>
  	<li>❌ <strong>Going without knowing your gothram:</strong> the priest asks for it during the ritual — make a quick call to family and confirm beforehand.</li>
@@ -149,7 +149,7 @@ No — this confusion is worth clearing every time. The Kalyanotsavam ticket and
  	<li><a href="/ttd-seva-ticket-booking/">TTD seva ticket booking — the full process</a></li>
  	<li><a href="/thomala-seva-guide/">Thomala seva guide — the pre-dawn flower seva</a></li>
  	<li><a href="/tirumala-abhishekam-seva-guide/">Tirumala Abhishekam seva guide</a></li>
- 	<li><a href="/tirumala-dress-code-rules/">Tirumala dress code rules — what to wear</a></li>
+ 	<li><a href="/tirumala-dress-code-rules-2026-2026/">Tirumala dress code rules — what to wear</a></li>
  	<li><a href="/ttd-tirumala-cottages-booking/">TTD Tirumala cottages booking</a></li>
 </ul>
 <h2>Frequently Asked Questions — Kalyanotsavam Seva</h2>

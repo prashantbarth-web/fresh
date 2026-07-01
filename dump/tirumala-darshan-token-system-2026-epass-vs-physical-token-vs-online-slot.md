@@ -26,7 +26,7 @@ Tirumala has two main darshan queues — free Sarva Darshan and paid Special Ent
  	<li><strong>Online slot</strong> → for paid Special Entry Darshan (booked online in advance).</li>
  	<li><strong>ePass</strong> → the digital form of any online booking confirmation (a QR code).</li>
 </ul>
-They're three different things, but related. Let's take them one at a time. For how the darshan types themselves differ, see <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+They're three different things, but related. Let's take them one at a time. For how the darshan types themselves differ, see <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 <h2>💡 Gap: the physical token is now an SSD token from Tirupati</h2>
 Here's the change most guides still get wrong. Earlier, the "physical token" for free Sarva Darshan was a hand-stamp/slip you got at the Vaikuntam Queue Complex (VQC) up at Tirumala. In 2026, free darshan runs on the <strong>SSD (Slotted Sarva Darshan)</strong> system, and the token is collected <strong>down in Tirupati</strong>, before you go up.
 
@@ -55,13 +55,13 @@ Where you collect the free SSD token:
 </tr>
 </tbody>
 </table>
-Key realities: the token is <strong>Aadhaar/biometric-based and non-transferable</strong>, it's first-come-first-served and can finish quickly, and it often carries a time slot (sometimes for next-day darshan). You then report at the VQC in your window. Counter timings have varied between reports, so confirm the current timing on <a href="https://www.tirumala.org/" rel="nofollow">tirumala.org</a>. The free route is detailed in the <a href="/sarva-darshan-guide-hindi/">Sarva Darshan guide</a>.
+Key realities: the token is <strong>Aadhaar/biometric-based and non-transferable</strong>, it's first-come-first-served and can finish quickly, and it often carries a time slot (sometimes for next-day darshan). You then report at the VQC in your window. Counter timings have varied between reports, so confirm the current timing on <a href="https://www.tirumala.org/" rel="nofollow">tirumala.org</a>. The free route is detailed in the <a href="/sarva-darshan-guide/">Sarva Darshan guide</a>.
 
 [caption id="attachment_136" align="alignnone" width="1024"]<img class="wp-image-136 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/05/tirumala-sarva-darshan-token-stamp-1024x683.webp" alt="तिरुमला Sarva Darshan token — हाथ पर stamp" width="1024" height="683" /> AI-generated illustration for visual representation purposes only.[/caption]
 <h2>Online slot (SED ₹300) — booked in advance</h2>
 The online slot is the paid Special Entry Darshan, booked on the official TTD portal/app: choose a date and time slot, fill pilgrim details, pay ₹300 per person, and get a confirmation. The wait is far shorter — about 2–4 hours through a separate SED queue. It's the most predictable option because you plan around a fixed slot.
 
-Key points: it's online-only in 2026, slots sell out fast for popular dates, and it's effectively non-refundable, so confirm travel before booking. Full steps are in the <a href="/ttd-special-entry-darshan-online-booking/">SED booking guide</a>, and the basics in <a href="/special-entry-darshan-300-kya-hai/">what is ₹300 darshan</a>.
+Key points: it's online-only in 2026, slots sell out fast for popular dates, and it's effectively non-refundable, so confirm travel before booking. Full steps are in the <a href="/ttd-special-entry-darshan-online-booking/">SED booking guide</a>, and the basics in <a href="/what-is-special-entry-darshan-rs300/">what is ₹300 darshan</a>.
 <h2>💡 Gap: ePass demystified — it's not a third option</h2>
 This is the term that confuses everyone. <strong>ePass is simply the digital form of your online booking confirmation</strong> — a QR code on your phone or in the TTD app. It is not a separate darshan type and there's nothing "extra" you book called an ePass.
 <ul>
@@ -122,7 +122,7 @@ So "I need to get an ePass" just means "I need to book online." The <a href="/tt
 <h2>Which option is right for you?</h2>
 <strong>Choose the free SSD token</strong> if you're on a budget, travelling in low season (July–August) or on a weekday, or SED slots aren't available — just collect it early at a Tirupati counter with Aadhaar.
 
-<strong>Choose the online slot (₹300)</strong> if you're with elders or kids, have limited time, or are going in peak season — the shorter wait is worth it. Either way, the confirmation you carry (if online) is your ePass. For footpath pilgrims, there's a separate <a href="/divya-darshan-free-token-guide/">Divya Darshan token</a> collected on the trek. To pick low-crowd dates, see the <a href="/tirumala-darshan-best-time/">best time guide</a>.
+<strong>Choose the online slot (₹300)</strong> if you're with elders or kids, have limited time, or are going in peak season — the shorter wait is worth it. Either way, the confirmation you carry (if online) is your ePass. For footpath pilgrims, there's a separate <a href="/divya-darshan-free-token-guide/">Divya Darshan token</a> collected on the trek. To pick low-crowd dates, see the <a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">best time guide</a>.
 <h2>❌ Common Mistakes — token confusion</h2>
 <ul>
  	<li>❌ <strong>Thinking ePass is a separate darshan:</strong> It's just the digital QR of an online booking. "Get an ePass" = book online.</li>
@@ -135,11 +135,11 @@ So "I need to get an ePass" just means "I need to book online." The <a href="/tt
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
- 	<li><a href="/sarva-darshan-guide-hindi/">Sarva Darshan — Free Token System &amp; VQC</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
+ 	<li><a href="/sarva-darshan-guide/">Sarva Darshan — Free Token System &amp; VQC</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan Booking — Step by Step</a></li>
- 	<li><a href="/vqc-vaikuntam-queue-complex-guide/">Vaikuntam Queue Complex (VQC) Guide</a></li>
- 	<li><a href="/tirumala-darshan-waiting-time/">Tirumala Darshan Waiting Time — Honest Guide</a></li>
+ 	<li><a href="/vaikuntam-queue-complex-vqc-guide/">Vaikuntam Queue Complex (VQC) Guide</a></li>
+ 	<li><a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala Darshan Waiting Time — Honest Guide</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tirumala Token System</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="What is a Tirumala ePass?" answer-0="An ePass is simply the digital confirmation of an online TTD booking — a QR code on your phone or in the TTD app. When you book a ₹300 slot or an online token, that confirmation is your ePass; staff scan the QR at the counter. It is not a separate darshan type — 'getting an ePass' just means booking online." count="1" html="true"]

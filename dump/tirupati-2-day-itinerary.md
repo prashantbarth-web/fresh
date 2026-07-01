@@ -26,7 +26,7 @@ This is the most important part. The "we'll sort it there" approach fails often 
  	<li><strong>Then accommodation:</strong> In 2026 a TTD room is generally tied to your darshan ticket — book it via the <a href="/ttd-accommodation-online-booking/">accommodation guide</a>.</li>
  	<li><strong>Train/flight:</strong> 60–90 days ahead.</li>
 </ul>
-⚠️ <strong>Important:</strong> No darshan slot? Free Sarva Darshan works, but you'll need an SSD token (collected at Tirupati counters) and the wait can run 18–24 hours on busy days. To understand all options, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+⚠️ <strong>Important:</strong> No darshan slot? Free Sarva Darshan works, but you'll need an SSD token (collected at Tirupati counters) and the wait can run 18–24 hours on busy days. To understand all options, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 
 [caption id="attachment_247" align="alignnone" width="1024"]<img class="wp-image-247 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/05/tirumala-temple-gopuram-sunrise-1024x604.webp" alt="Tirumala Venkateswara temple gopuram at golden hour" width="1024" height="604" /> Tirumala Venkateswara temple gopuram at golden hour[/caption]
 <h2>Day 1 — Tirupati, Tiruchanur &amp; up to Tirumala</h2>
@@ -62,7 +62,7 @@ This is the most important part. The "we'll sort it there" approach fails often 
 </tr>
 </tbody>
 </table>
-💡 <strong>Insider Tip:</strong> By tradition, pilgrims visit Goddess Padmavathi at Tiruchanur before Venkateswara — take the ₹50 special darshan there to skip the long free line. Full detail in the <a href="/tiruchanur-padmavathi-temple-guide/">Tiruchanur Padmavathi guide</a>. Getting up the hill is covered in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala guide</a>.
+💡 <strong>Insider Tip:</strong> By tradition, pilgrims visit Goddess Padmavathi at Tiruchanur before Venkateswara — take the ₹50 special darshan there to skip the long free line. Full detail in the <a href="/tiruchanur-padmavathi-temple-guide/">Tiruchanur Padmavathi guide</a>. Getting up the hill is covered in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala guide</a>.
 <h2>💡 Gap: the Tirupati city temples most plans skip</h2>
 Most 2-day itineraries jump straight from arrival to Tirumala and miss two lovely temples right in Tirupati city — which is a shame, because they fit neatly into Day 1 morning before you head up.
 <ul>
@@ -103,7 +103,7 @@ Slotting these in turns a "darshan-only" trip into a fuller pilgrimage without a
 </tr>
 </tbody>
 </table>
-⚠️ <strong>Important:</strong> The dress code is the real gate — wrong attire means no entry regardless of your ticket. Read the <a href="/tirumala-dress-code-rules/">dress code rules</a> first, and note phones/leather must go in lockers (see the <a href="/vqc-vaikuntam-queue-complex-guide/">VQC guide</a>). Each ticket generally includes laddus; details in the <a href="/tirumala-laddu-prasad-guide/">laddu guide</a>.
+⚠️ <strong>Important:</strong> The dress code is the real gate — wrong attire means no entry regardless of your ticket. Read the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a> first, and note phones/leather must go in lockers (see the <a href="/vaikuntam-queue-complex-vqc-guide/">VQC guide</a>). Each ticket generally includes laddus; details in the <a href="/tirumala-laddu-prasad-guide/">laddu guide</a>.
 <h2>Realistic 2-day budget (for 2 people)</h2>
 <table>
 <tbody>
@@ -166,7 +166,7 @@ Stay on Tirumala if you have an early-morning darshan slot — you'll be rested 
 <ul>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan ₹300 Booking — Step by Step</a></li>
  	<li><a href="/tiruchanur-padmavathi-temple-guide/">Tiruchanur Padmavathi Temple — Darshan Guide</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
  	<li><a href="/tirupati-yatra-total-budget/">Tirupati Yatra Total Budget — Realistic Breakdown</a></li>
  	<li><a href="/tirupati-1-day-darshan/">1-Day Tirupati Darshan — Is It Possible?</a></li>
 </ul>

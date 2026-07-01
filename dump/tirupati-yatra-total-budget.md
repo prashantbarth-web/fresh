@@ -54,7 +54,7 @@ This is the biggest expense, and where costs vary the most.
 </tr>
 </tbody>
 </table>
-See the <a href="/delhi-se-tirupati-kaise-jayen/">complete Delhi to Tirupati trains guide</a> — which trains, timings and booking tips.
+See the <a href="/delhi-se-tirupati/">complete Delhi to Tirupati trains guide</a> — which trains, timings and booking tips.
 
 [caption id="attachment_1180" align="alignnone" width="1024"]<img class="wp-image-1180 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/06/tirupati-railway-station-north-indian-pilgrims-1024x591.webp" alt="Tirupati Railway Station — North Indian pilgrim family, Delhi/UP" width="1024" height="591" /> Tirupati Railway Station — North Indian pilgrim family, Delhi/UP[/caption]
 
@@ -390,7 +390,7 @@ Reality: ₹4,000–₹5,000 for two is possible, but only with Sleeper class + 
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/delhi-se-tirupati-kaise-jayen/">Delhi to Tirupati — train, flight and bus guide</a></li>
+ 	<li><a href="/delhi-se-tirupati/">Delhi to Tirupati — train, flight and bus guide</a></li>
  	<li><a href="/tirupati-budget-hotels-1000/">Tirupati hotels under ₹1,000</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">SED ₹300 ticket — booking guide</a></li>
  	<li><a href="/tirumala-annadanam-guide/">Tirumala Annadanam — free meals</a></li>

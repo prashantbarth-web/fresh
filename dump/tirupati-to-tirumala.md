@@ -20,7 +20,7 @@ A note from experience: I've made this climb several times — by bus, on the Al
 </ul>
 </blockquote>
 <h2>Tirupati vs Tirumala — clear this first</h2>
-This trips up almost every first-timer. <strong>Tirupati</strong> is the city in the plains — railway station, airport, hotels, bus stands. <strong>Tirumala</strong> is the hilltop town about 22 km above it, where the Venkateswara Swami temple sits at around 850 m. Between them runs the ghat road. So whatever route you choose, you're going <em>up</em> from Tirupati to Tirumala — there's no temple in Tirupati city itself. How the darshan works once you're up there is in <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+This trips up almost every first-timer. <strong>Tirupati</strong> is the city in the plains — railway station, airport, hotels, bus stands. <strong>Tirumala</strong> is the hilltop town about 22 km above it, where the Venkateswara Swami temple sits at around 850 m. Between them runs the ghat road. So whatever route you choose, you're going <em>up</em> from Tirupati to Tirumala — there's no temple in Tirupati city itself. How the darshan works once you're up there is in <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 
 [caption id="attachment_1384" align="alignnone" width="1024"]<img class="wp-image-1384 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2025/06/tirupati-se-tirumala-bus-trek-cab-helicopter-options-1024x576.png" alt="तिरुपति से तिरुमला जाने के 5 तरीके — TTD Bus, Cab, Alipiri Trek, Srivari Mettu, Helicopter" width="1024" height="576" /> तिरुपति से तिरुमला जाने के 5 तरीके — TTD Bus, Cab, Alipiri Trek, Srivari Mettu, Helicopter[/caption]
 <h2>💡 Gap: free TTD bus vs paid APSRTC bus (and the 3-day ticket)</h2>
@@ -110,7 +110,7 @@ General pilgrims can't drive personal cars or bikes onto Tirumala. Park at the T
 </tr>
 </tbody>
 </table>
-For elders, the dedicated <a href="/senior-citizen-tirumala-darshan/">senior citizen darshan</a> plus a round-trip cab is usually the gentlest combination.
+For elders, the dedicated <a href="/senior-citizens-special-facities/">senior citizen darshan</a> plus a round-trip cab is usually the gentlest combination.
 <h2>Best time to head up</h2>
 <table>
 <tbody>
@@ -143,7 +143,7 @@ For elders, the dedicated <a href="/senior-citizen-tirumala-darshan/">senior cit
 </table>
 💡 <strong>Insider Tip:</strong> If you're staying in Tirupati with a morning darshan, take a 3–4 AM bus up so you arrive fresh. Plan the return too — in peak season the Tirumala bus stand can have a 1–2 hour queue in the evening, which matters if you have a train or flight to catch. Getting to Tirupati first? See the <a href="/tirupati-airport-guide/">airport guide</a>.
 <h2>Before you go up — sort darshan &amp; packing</h2>
-Getting up the hill matters less than having your darshan sorted. Book the <a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan</a> in advance if you can; otherwise free Sarva Darshan needs an SSD token and a long wait (see the <a href="/tirumala-darshan-waiting-time/">waiting time guide</a>), and trekkers get Divya Darshan priority. Pack non-leather shoes, water and traditional clothes using the <a href="/tirupati-packing-list/">packing list</a>, and read the <a href="/vqc-vaikuntam-queue-complex-guide/">VQC guide</a> for what happens once you reach the queue complex.
+Getting up the hill matters less than having your darshan sorted. Book the <a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan</a> in advance if you can; otherwise free Sarva Darshan needs an SSD token and a long wait (see the <a href="/tirumala-darshan-waiting-time-2026-2026/">waiting time guide</a>), and trekkers get Divya Darshan priority. Pack non-leather shoes, water and traditional clothes using the <a href="/tirupati-packing-list/">packing list</a>, and read the <a href="/vaikuntam-queue-complex-vqc-guide/">VQC guide</a> for what happens once you reach the queue complex.
 <h2>❌ Common Mistakes — Tirupati to Tirumala</h2>
 <ul>
  	<li>❌ <strong>Looking for the temple in Tirupati city:</strong> It's 22 km up the hill — plan the climb separately.</li>
@@ -159,8 +159,8 @@ Getting up the hill matters less than having your darshan sorted. Book the <a hr
  	<li><a href="/alipiri-footpath-trek-guide/">Alipiri Footpath Trek Guide</a></li>
  	<li><a href="/srivari-mettu-footpath-guide/">Srivari Mettu Footpath Guide</a></li>
  	<li><a href="/tirupati-airport-guide/">Tirupati Airport Guide — Flights &amp; Reaching Tirumala</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
- 	<li><a href="/senior-citizen-tirumala-darshan/">Senior Citizen Tirumala Darshan — Special Facilities</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
+ 	<li><a href="/senior-citizens-special-facities/">Senior Citizen Tirumala Darshan — Special Facilities</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tirupati to Tirumala</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="How far is Tirumala from Tirupati?" answer-0="About 22 km up the ghat road, which the bus covers in roughly 40–70 minutes depending on traffic and security checks. On foot, the Alipiri footpath is about 7.8 km (around 3 hours) and the steeper Srivari Mettu is about 2 km (around 1.5 hours). Personal vehicles can only go up to the Alipiri base." count="1" html="true"]

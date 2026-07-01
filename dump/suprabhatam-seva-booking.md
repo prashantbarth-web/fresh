@@ -132,7 +132,7 @@ Roughly how it works (confirm the exact dates each month on tirumala.org):
 </tr>
 </tbody>
 </table>
-⚠️ <strong>Important:</strong> The <a href="/tirumala-dress-code-rules/">dress code</a> is enforced even more strictly for sevas than for regular darshan. No dhoti = entry denied, no refund. If you can't tie a dhoti, watch a tutorial or ask hotel staff; you can also rent/buy one in Tirumala for ₹100–200.
+⚠️ <strong>Important:</strong> The <a href="/tirumala-dress-code-rules-2026-2026/">dress code</a> is enforced even more strictly for sevas than for regular darshan. No dhoti = entry denied, no refund. If you can't tie a dhoti, watch a tutorial or ask hotel staff; you can also rent/buy one in Tirumala for ₹100–200.
 <h2>Cost and what's included</h2>
 <ul>
  	<li><strong>Ticket cost:</strong> generally ₹120–300 per person (verify the latest on tirumala.org)</li>

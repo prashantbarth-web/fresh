@@ -76,7 +76,7 @@ Funding comes from donations and temple revenue. Many devotees sponsor a day of 
 <h2>Location — where is the Annadanam Complex?</h2>
 The main TTD Annaprasadam Complex on the Tirumala hill — the Matrusri Tarigonda Vengamamba Annaprasadam Complex — is near the VQC (Vaikuntam Queue Complex). It is a large, dedicated hall where thousands can eat at once.
 
-It is within walking distance of the temple. If it is your first visit, ask any staff member "Where is the Annadanam Hall?" and they will point you there; signs are posted too. Read the <a href="/vqc-vaikuntam-queue-complex-guide/">VQC complex layout and navigation guide</a> to orient yourself.
+It is within walking distance of the temple. If it is your first visit, ask any staff member "Where is the Annadanam Hall?" and they will point you there; signs are posted too. Read the <a href="/vaikuntam-queue-complex-vqc-guide/">VQC complex layout and navigation guide</a> to orient yourself.
 <h2>Menu — what is served?</h2>
 The Annadanam menu is a simple, sattvik South Indian vegetarian thali. A typical meal includes:
 <table>
@@ -193,7 +193,7 @@ In town, however, some dharamshalas and community kitchens — especially state 
 </table>
 💡 <strong>Insider Tip:</strong> Short on time? The TTD canteen is practical. Want the experience? Do not miss the Annadanam at least once.
 <h2>Laddu and Annadanam — both in one trip?</h2>
-Yes — they are separate, and both fit easily into a single visit. The ideal sequence is: darshan → laddu counter → Annadanam hall. The full prasad guide is here: <a href="/tirumala-laddu-prasad-guide/">Tirumala laddu prasad — types, price, limit and how to avoid fakes</a>. To see how the darshan options fit around mealtimes, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+Yes — they are separate, and both fit easily into a single visit. The ideal sequence is: darshan → laddu counter → Annadanam hall. The full prasad guide is here: <a href="/tirumala-laddu-prasad-guide/">Tirumala laddu prasad — types, price, limit and how to avoid fakes</a>. To see how the darshan options fit around mealtimes, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 <h2>❌ Common mistakes</h2>
 <ul>
  	<li>❌ <strong>Going at peak time (12–1 PM):</strong> the queue can be 45–60 minutes. Arriving at 11 AM or after 2 PM is far smarter.</li>
@@ -206,9 +206,9 @@ Yes — they are separate, and both fit easily into a single visit. The ideal se
 <h2>📚 Also read</h2>
 <ul>
  	<li><a href="/tirumala-laddu-prasad-guide/">Tirumala laddu prasad — price, types and how to get it</a></li>
- 	<li><a href="/vqc-vaikuntam-queue-complex-guide/">VQC Vaikuntam Queue Complex — layout and navigation</a></li>
+ 	<li><a href="/vaikuntam-queue-complex-vqc-guide/">VQC Vaikuntam Queue Complex — layout and navigation</a></li>
  	<li><a href="/tirupati-dharamshala-guide/">Tirupati dharamshala guide — low-cost stay and meals</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala darshan — full breakdown</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala darshan — full breakdown</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati packing list — what not to forget</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tirumala Annadanam</h2>

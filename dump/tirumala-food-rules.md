@@ -54,7 +54,7 @@ This article gives you complete clarity — exactly what you can carry, what you
 </ul>
 ⚠️ <strong>Important:</strong> Security checks happen at both the Tirumala bus stand area and the temple entry points, and bags are scanned. A non-veg item detected = confiscation + warning; repeat offenders can be denied entry. Best policy: when in doubt, don't carry it.
 <h2>Food rules inside the queue (the darshan line)</h2>
-The <a href="/vqc-vaikuntam-queue-complex-guide/">VQC (Vaikuntam Queue Complex)</a> and darshan queue can run 6–20 hours. Food is essential — but there are rules.
+The <a href="/vaikuntam-queue-complex-vqc-guide/">VQC (Vaikuntam Queue Complex)</a> and darshan queue can run 6–20 hours. Food is essential — but there are rules.
 <h3>Allowed in the queue:</h3>
 <ul>
  	<li>✅ Water bottles (carry multiple — high dehydration risk)</li>

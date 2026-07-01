@@ -263,7 +263,7 @@ Tirupati city and the Tirumala temple are different places — the hill shrine i
 </tr>
 </tbody>
 </table>
-The full breakdown is in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala travel guide</a>.
+The full breakdown is in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala travel guide</a>.
 <h2>Mumbai to Tirupati — recommended 3-day plan</h2>
 <table>
 <tbody>
@@ -302,7 +302,7 @@ As soon as your travel is booked, sort out your darshan ticket.
  	<li>Each ticket is non-transferable — the named person must show the matching original ID.</li>
  	<li>No ₹300 slot? Free Sarva Darshan is the backup — now the SSD token system, with tokens collected at Tirupati counters.</li>
 </ul>
-Step-by-step: <a href="/ttd-special-entry-darshan-online-booking/">TTD ₹300 Special Entry Darshan online booking guide</a>. To compare every option, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+Step-by-step: <a href="/ttd-special-entry-darshan-online-booking/">TTD ₹300 Special Entry Darshan online booking guide</a>. To compare every option, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 <h2>❌ Common mistakes — Mumbai to Tirupati</h2>
 <ul>
  	<li>❌ <strong>Going to the wrong Mumbai station:</strong> CSTM, BCT, LTT and Dadar are all different. Confirm the exact departure terminal on IRCTC — reaching the wrong one means missing the train.</li>
@@ -311,15 +311,15 @@ Step-by-step: <a href="/ttd-special-entry-darshan-online-booking/">TTD ₹300 Sp
  	<li>❌ <strong>Driving the ghat road at night:</strong> reach Tirupati before evening and avoid the ghat section after dark.</li>
  	<li>❌ <strong>Trying to drive up to Tirumala:</strong> private vehicles are restricted — park at Alipiri and take the TTD bus.</li>
  	<li>❌ <strong>Skipping the darshan ticket:</strong> book the ₹300 slot when the month's quota opens, so you are not stuck in a long free-line wait after a 20-hour journey.</li>
- 	<li>❌ <strong>Not packing traditional clothes:</strong> the Tirumala dress code is strict — read the <a href="/tirumala-dress-code-rules/">Tirumala dress code rules</a> before you pack.</li>
+ 	<li>❌ <strong>Not packing traditional clothes:</strong> the Tirumala dress code is strict — read the <a href="/tirumala-dress-code-rules-2026-2026/">Tirumala dress code rules</a> before you pack.</li>
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala — every way to reach the hill temple</a></li>
- 	<li><a href="/delhi-se-tirupati-kaise-jayen/">Delhi to Tirupati — train, flight and bus guide</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">Tirupati to Tirumala — every way to reach the hill temple</a></li>
+ 	<li><a href="/delhi-se-tirupati/">Delhi to Tirupati — train, flight and bus guide</a></li>
  	<li><a href="/tirupati-2-day-itinerary/">Tirupati 2-day itinerary — complete plan</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD ₹300 Special Entry Darshan — step-by-step booking</a></li>
- 	<li><a href="/tirumala-darshan-best-time/">Best time for Tirumala darshan — how to avoid the crowd</a></li>
+ 	<li><a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">Best time for Tirumala darshan — how to avoid the crowd</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati packing list — what not to forget</a></li>
 </ul>
 <h2>Frequently Asked Questions — Mumbai to Tirupati</h2>

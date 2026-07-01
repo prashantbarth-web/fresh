@@ -226,7 +226,7 @@ From the Tirupati bus stand or railway station, Tirumala is about 22 km up the g
 </tr>
 </tbody>
 </table>
-Full details and timings are in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala travel guide</a>, and trekkers should read the <a href="/alipiri-footpath-trek-guide/">Alipiri footpath trek guide</a> before starting the climb.
+Full details and timings are in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala travel guide</a>, and trekkers should read the <a href="/alipiri-footpath-trek-guide/">Alipiri footpath trek guide</a> before starting the climb.
 <h2>Is a Chennai-to-Tirumala day trip possible?</h2>
 Yes — but only if you have a pre-booked darshan slot. Without one, the free Sarva Darshan queue can run far too long to make it back the same day.
 
@@ -299,14 +299,14 @@ The moment your travel plan is set, check darshan availability the same day — 
  	<li>Free Sarva Darshan (SSD token) is always available, but the queue can be long — not ideal for a same-day return.</li>
  	<li>Every pilgrim's name and a valid ID (original Aadhaar) are required.</li>
 </ul>
-To understand all the darshan types and the real queue situation first, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a> and the honest <a href="/tirumala-darshan-waiting-time/">Tirumala darshan waiting time guide</a>. If you decide to stay over, the <a href="/ttd-accommodation-online-booking/">TTD accommodation booking guide</a> helps you grab a room.
+To understand all the darshan types and the real queue situation first, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a> and the honest <a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala darshan waiting time guide</a>. If you decide to stay over, the <a href="/ttd-accommodation-online-booking/">TTD accommodation booking guide</a> helps you grab a room.
 <h2>❌ Common Mistakes — Chennai to Tirupati</h2>
 <ul>
  	<li>❌ <strong>Booking a flight:</strong> Airport time + flying + the Tirupati-airport-to-Tirumala leg = 5–6 hours and ₹4,000+. The bus does it in similar time for around ₹200. A flight is wasted money here.</li>
  	<li>❌ <strong>Treating Tirupati and Tirumala as the same place:</strong> You arrive in Tirupati city; the temple is ~22 km up the hill. Factor that leg into your plan, especially for a day trip.</li>
  	<li>❌ <strong>Expecting the free queue on a day trip:</strong> Without a pre-booked slot, the Sarva Darshan wait can make same-day return impossible. Sort the darshan slot first.</li>
  	<li>❌ <strong>Trying to drive a cab all the way to Tirumala:</strong> Personal vehicles aren't allowed on Tirumala. Park at Alipiri and take the TTD bus.</li>
- 	<li>❌ <strong>Ignoring the dress code:</strong> Turning up in casual clothes and getting stopped at the Tirumala gate is common. Read the <a href="/tirumala-dress-code-rules/">dress code rules</a> first.</li>
+ 	<li>❌ <strong>Ignoring the dress code:</strong> Turning up in casual clothes and getting stopped at the Tirumala gate is common. Read the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a> first.</li>
  	<li>❌ <strong>Hunting for a bus outside CMBT:</strong> Don't rely on random roadside stops. Go to CMBT (Koyambedu) — all the options are there. The <a href="/tirupati-bus-stand-guide/">Tirupati bus stand guide</a> covers the other end.</li>
  	<li>❌ <strong>Going unplanned in peak season:</strong> During Brahmotsavam, Vaikunta Ekadasi and other festivals, Tirumala draws huge crowds and darshan slots fill very early. Book well ahead for those dates.</li>
 </ul>
@@ -314,10 +314,10 @@ To understand all the darshan types and the real queue situation first, read <a 
 <ul>
  	<li><a href="/tirupati-2-day-itinerary/">Tirupati 2-Day Itinerary — Complete Plan</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan Booking — Step by Step</a></li>
- 	<li><a href="/tirumala-darshan-waiting-time/">Tirumala Darshan Waiting Time — Honest Guide</a></li>
- 	<li><a href="/tirumala-darshan-best-time/">Best Time for Tirumala Darshan — Avoid the Crowds</a></li>
- 	<li><a href="/hyderabad-se-tirupati-kaise-jayen/">Hyderabad to Tirupati — Travel Options Compared</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Everything in One Place</a></li>
+ 	<li><a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala Darshan Waiting Time — Honest Guide</a></li>
+ 	<li><a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">Best Time for Tirumala Darshan — Avoid the Crowds</a></li>
+ 	<li><a href="/hyderabad-to-tirupati/">Hyderabad to Tirupati — Travel Options Compared</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Everything in One Place</a></li>
 </ul>
 <h2>Frequently Asked Questions — Chennai to Tirumala</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="How long is the Chennai to Tirupati journey?" answer-0="About 3–3.5 hours by bus from CMBT (APSRTC), and 2.5–3.5 hours by train, with the Sapthagiri Express being the fastest. By cab/road it's roughly 2.5–3 hours. Chennai to Tirupati is only about 130–140 km, making it one of the most convenient Tirupati connections in India." count="1" html="true"]

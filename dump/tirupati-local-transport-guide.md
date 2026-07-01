@@ -178,7 +178,7 @@ Most North Indian pilgrims default to autos or cabs, but the APSRTC city buses q
 </tr>
 </tbody>
 </table>
-See every option — bus, taxi, footpath — in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala guide</a>.
+See every option — bus, taxi, footpath — in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala guide</a>.
 <h2>Ola / Uber — how it works in Tirupati</h2>
 Both operate in Tirupati, with a few realities to know.
 <h3>Availability</h3>
@@ -366,7 +366,7 @@ Private vehicles are restricted on the Tirumala hill. Options up there:
 <h2>📚 Also read</h2>
 <ul>
  	<li><a href="/tirupati-town-guide/">Tirupati town guide — the complete pilgrim overview</a></li>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala — bus, taxi and footpath</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">Tirupati to Tirumala — bus, taxi and footpath</a></li>
  	<li><a href="/tirupati-airport-guide/">Tirupati airport guide — arrival and onward travel</a></li>
  	<li><a href="/tiruchanur-padmavathi-temple-guide/">Tiruchanur Padmavathi temple guide</a></li>
  	<li><a href="/tirupati-2-day-itinerary/">Tirupati 2-day itinerary — complete plan</a></li>

@@ -44,7 +44,7 @@ See the <a href="/tirupati-best-time-to-visit/">month-by-month crowd and weather
 <h3>Train (best for North Indians)</h3>
 Direct trains run from Delhi, Patna, Jaipur and many cities; 3AC is about ₹1,500–₹2,000 one way, journey 28–32 hours. The AP Sampark Kranti Express (12707, from New Delhi) and the Andhra Pradesh Express (12723) are the popular options. From Lucknow direct trains are limited and often involve a change — see the city guide.
 
-See the <a href="/delhi-se-tirupati-kaise-jayen/">Delhi to Tirupati complete guide</a> and the <a href="/lucknow-se-tirupati-kaise-jayen/">Lucknow to Tirupati route guide</a>.
+See the <a href="/delhi-se-tirupati/">Delhi to Tirupati complete guide</a> and the <a href="/lucknow-to-tirupati/">Lucknow to Tirupati route guide</a>.
 <h3>Flight</h3>
 Tirupati has its own airport — about 2 hours from Delhi, ₹3,000–₹8,000 one way on advance booking.
 <h3>Booking tip</h3>
@@ -58,9 +58,9 @@ This is the most critical booking — and where most people go wrong.
 
 ⚠️ <strong>Important:</strong> The SED ticket is online-only — released as a monthly quota on a pre-announced date (typically a couple of months ahead), and it sells out within minutes. There is no reliable same-day walk-in. Book the moment the month's quota opens.
 
-See the <a href="/ttd-special-entry-darshan-online-booking/">SED ₹300 booking step-by-step</a>, the <a href="/tirumala-darshan-ke-prakar/">full list of darshan types</a>, and the <a href="/tirumala-darshan-waiting-time/">honest waiting-time guide</a>.
+See the <a href="/ttd-special-entry-darshan-online-booking/">SED ₹300 booking step-by-step</a>, the <a href="/types-of-tirumala-darshan/">full list of darshan types</a>, and the <a href="/tirumala-darshan-waiting-time-2026-2026/">honest waiting-time guide</a>.
 <h3>How darshan booking works</h3>
-tirumala.org → "Online Services" → "Darshan Booking" → select date and slot → pilgrim details → payment. To check open dates, see the <a href="/ttd-darshan-dates-kaise-check-karen/">how to check available dates guide</a>.
+tirumala.org → "Online Services" → "Darshan Booking" → select date and slot → pilgrim details → payment. To check open dates, see the <a href="/how-to-check-ttd-darshan-availability/">how to check available dates guide</a>.
 <h2>Step 4 — Book Tirumala accommodation</h2>
 For a 2+ day plan, one night on Tirumala is strongly recommended.
 
@@ -89,7 +89,7 @@ Note: popular sevas now go through the Electronic Dip lottery. See the <a href="
 <h3>Arrive in the morning</h3>
 An overnight train getting you to Tirupati by 7–8 AM is ideal. Hotel check-in from the station, freshen up, breakfast.
 <h3>Day 1 afternoon: head up to Tirumala</h3>
-From the Tirupati Central Bus Stand, take the APSRTC Tirumala bus — ₹65–₹70, every 10–15 minutes, 45–60 minutes journey. See the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala guide</a> and the <a href="/tirupati-local-transport-guide/">local transport guide</a>.
+From the Tirupati Central Bus Stand, take the APSRTC Tirumala bus — ₹65–₹70, every 10–15 minutes, 45–60 minutes journey. See the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala guide</a> and the <a href="/tirupati-local-transport-guide/">local transport guide</a>.
 <h3>Day 1 evening: explore Tirumala</h3>
 Swami Pushkarini, an evening seva, and the TTD Annadanam dinner. See the <a href="/tirumala-annadanam-guide/">Annadanam free meals guide</a>.
 <h2>Step 8 — Day 2: darshan and return</h2>
@@ -108,7 +108,7 @@ There is a dress check at the Tirumala reporting point. Wrong dress means no ent
  	<li>✅ Women: saree or salwar suit</li>
  	<li>❌ Jeans, shorts, sleeveless, western clothing — not allowed</li>
 </ul>
-See the <a href="/tirumala-dress-code-rules/">complete dress code guide</a>.
+See the <a href="/tirumala-dress-code-rules-2026-2026/">complete dress code guide</a>.
 <h2>Packing — what to carry</h2>
 <ul>
  	<li>Aadhaar card original (for everyone)</li>
@@ -166,11 +166,11 @@ See the <a href="/tirupati-yatra-total-budget/">complete category-wise budget br
 <tbody>
 <tr>
 <td>Travelling with senior citizens</td>
-<td><a href="/senior-citizen-tirumala-darshan/">Senior citizen darshan guide</a></td>
+<td><a href="/senior-citizens-special-facities/">Senior citizen darshan guide</a></td>
 </tr>
 <tr>
 <td>NRI — coming from abroad</td>
-<td><a href="/nri-tirumala-darshan-guide/">NRI darshan guide</a></td>
+<td><a href="/nri-darshan-guide/">NRI darshan guide</a></td>
 </tr>
 <tr>
 <td>Need a Tatkal / last-minute ticket</td>
@@ -215,7 +215,7 @@ See the <a href="/tirupati-yatra-total-budget/">complete category-wise budget br
  	<li>❌ <strong>Buying "Tirupati Laddu" in town:</strong> the authentic TTD laddu is only at the Tirumala counter — the town version is an imitation.</li>
 </ul>
 <h2>📚 Also read — category-wise complete guides</h2>
-<strong>🛕 Darshan:</strong> <a href="/tirumala-darshan-ke-prakar/">all darshan types</a> · <a href="/ttd-special-entry-darshan-online-booking/">SED ₹300 booking</a> · <a href="/tirumala-darshan-waiting-time/">waiting time</a> · <a href="/ttd-darshan-rules-2026/">2026 rules</a>
+<strong>🛕 Darshan:</strong> <a href="/types-of-tirumala-darshan/">all darshan types</a> · <a href="/ttd-special-entry-darshan-online-booking/">SED ₹300 booking</a> · <a href="/tirumala-darshan-waiting-time-2026-2026/">waiting time</a> · <a href="/ttd-darshan-rules-2026/">2026 rules</a>
 
 <strong>🏨 Stay:</strong> <a href="/ttd-accommodation-online-booking/">TTD cottage booking</a> · <a href="/tirupati-budget-hotels-1000/">hotels under ₹1,000</a> · <a href="/tirupati-dharamshala-guide/">dharamshala guide</a>
 

@@ -67,7 +67,7 @@ Through the 18th–19th centuries the temple's management passed through several
 Under the Madras Religious and Charitable Endowments Act, the Tirumala Tirupati Devasthanams (TTD) was created in 1933. After this:
 <ul>
  	<li>Professional management began</li>
- 	<li>A queue system developed — the foundation of today's <a href="/tirumala-darshan-ke-prakar/">darshan-types system</a></li>
+ 	<li>A queue system developed — the foundation of today's <a href="/types-of-tirumala-darshan/">darshan-types system</a></li>
  	<li>Infrastructure development — roads, guest houses, Annadanam halls</li>
  	<li>An online booking system (after 2006) that democratised access</li>
 </ul>
@@ -80,7 +80,7 @@ Under the Madras Religious and Charitable Endowments Act, the Tirumala Tirupati 
 </ul>
 ⚠️ <strong>Important:</strong> Figures like annual revenue and exact staff counts are reported variously and change year to year — treat such numbers as indicative, and rely on official TTD statements for specifics.
 <h2>Temple architecture — what to notice during darshan</h2>
-While you pass the <a href="/tirumala-darshan-waiting-time/">waiting time in the queue</a>, look out for these in the complex:
+While you pass the <a href="/tirumala-darshan-waiting-time-2026-2026/">waiting time in the queue</a>, look out for these in the complex:
 <h3>Ananda Nilayam Vimana (the gold-plated tower)</h3>
 The temple's main spire, "Ananda Nilayam," is layered with gold. The gold plating was done in the Vijayanagar era and renewed several times since. It is visible from afar and is the first thing you see while climbing the <a href="/tirupati-yatra-planning-guide/">footpath up to Tirumala</a>.
 <h3>Bangaru Vakili (the Golden Gate)</h3>
@@ -118,9 +118,9 @@ On a past trip I guided a family from UP, and the uncle said, "Son, we've come f
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirumala-darshan-ke-prakar/">All types of Tirumala darshan 2026 — which to choose</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">All types of Tirumala darshan 2026 — which to choose</a></li>
  	<li><a href="/brahmotsavam-2026-dates-schedule/">Brahmotsavam 2026 — dates, events and historical significance</a></li>
- 	<li><a href="/tirumala-dress-code-rules/">Tirumala dress code — the strict rules to know</a></li>
+ 	<li><a href="/tirumala-dress-code-rules-2026-2026/">Tirumala dress code — the strict rules to know</a></li>
  	<li><a href="/tirumala-annadanam-guide/">Tirumala Annadanam — the free-food tradition</a></li>
  	<li><a href="/tirupati-yatra-planning-guide/">Tirupati yatra planning — start here</a></li>
 </ul>

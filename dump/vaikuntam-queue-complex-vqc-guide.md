@@ -22,7 +22,7 @@ A note from experience: I've gone through the VQC several times. The pilgrims wh
 <h2>What is the Vaikuntam Queue Complex?</h2>
 The Vaikuntam Queue Complex (VQC) is the large facility where the queue for Sri Venkateswara Swamy's darshan is managed. Think of it this way — if the temple is the destination, the VQC is the departure point where the journey begins. Whether you're doing free Sarva Darshan or paid Special Entry Darshan, you pass through the VQC to reach the sanctum.
 
-It's a series of interconnected, air-conditioned halls (compartments) that lead in stages toward the temple, built to handle the 70,000–80,000 pilgrims who come daily, keep different darshan categories in separate queues, and provide shade, water and seating during the long wait. It's so large that first-timers often get disoriented — which is exactly why a little preparation helps. To see where it fits among darshan types, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+It's a series of interconnected, air-conditioned halls (compartments) that lead in stages toward the temple, built to handle the 70,000–80,000 pilgrims who come daily, keep different darshan categories in separate queues, and provide shade, water and seating during the long wait. It's so large that first-timers often get disoriented — which is exactly why a little preparation helps. To see where it fits among darshan types, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 
 [caption id="attachment_138" align="alignnone" width="1024"]<img class="wp-image-138 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/05/tirumala-vqc-entrance-aerial-1024x600.webp" alt="तिरुमला Vaikuntam Queue Complex का प्रवेश द्वार" width="1024" height="600" /> AI-generated illustration for visual representation purposes only.[/caption]
 <h2>💡 Gap: how the SSD token connects to the VQC now (and AI crowd management)</h2>
@@ -30,9 +30,9 @@ Older guides describe the pre-2026 model — "reach the VQC, get a hand-stamp, a
 
 There's also a genuinely modern layer in 2026: TTD runs an AI-backed crowd-management system at the VQC, with thousands of cameras tracking pilgrim flow, predicting congestion before it builds, and helping trace missing persons. It's part of why the queues move in a more controlled, batch-wise way than they used to.
 
-⚠️ <strong>Important:</strong> Because the token-and-slot rules keep evolving, confirm the current process on <a href="https://www.tirumala.org/" rel="nofollow">tirumala.org</a>. Understand the token types in the <a href="/tirumala-darshan-token-system/">token system guide</a>, and see how the tech works in the <a href="/tirumala-ai-crowd-management/">Tirumala AI crowd management</a> piece.
+⚠️ <strong>Important:</strong> Because the token-and-slot rules keep evolving, confirm the current process on <a href="https://www.tirumala.org/" rel="nofollow">tirumala.org</a>. Understand the token types in the <a href="/tirumala-darshan-token-system-2026-epass-vs-physical-token-vs-online-slot-2026-epass-vs-physical-token-vs-online-slot/">token system guide</a>, and see how the tech works in the <a href="/tirumala-ai-crowd-management/">Tirumala AI crowd management</a> piece.
 <h2>Where is the VQC and how to reach it</h2>
-The VQC sits in the heart of Tirumala — roughly a 5–10 minute walk from the Tirumala bus stand, a little before the main temple, with signboards across Tirumala pointing to "Vaikuntam Queue Complex." If you arrive by TTD bus, you'll see the signs as you step off; if by car, park in the Tirumala parking and walk over, as private vehicles have restricted movement on the hill. Getting up to Tirumala is covered in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala guide</a>.
+The VQC sits in the heart of Tirumala — roughly a 5–10 minute walk from the Tirumala bus stand, a little before the main temple, with signboards across Tirumala pointing to "Vaikuntam Queue Complex." If you arrive by TTD bus, you'll see the signs as you step off; if by car, park in the Tirumala parking and walk over, as private vehicles have restricted movement on the hill. Getting up to Tirumala is covered in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala guide</a>.
 <h2>Separate halls for different darshans</h2>
 This is the most important thing to get right — the halls and entry points differ by darshan type, and the wrong one wastes time.
 <ul>
@@ -45,7 +45,7 @@ This is the most important thing to get right — the halls and entry points dif
 <h2>💡 Gap: the compartment reality — AC, seating, and no going back</h2>
 Many pilgrims don't realise the VQC compartments are spacious, seated and air-conditioned — you wait sitting down, not standing in a crush. But there's a flip side people learn the hard way: the flow is one-directional and batch-wise. Once you're in a compartment, you wait for your batch to be released forward; you can't wander back to "find a faster line," and leaving your compartment can cost your position.
 
-So settle in, keep your group together, and be patient — the system is designed to move you forward in turn. Inside the compartment system, the Sarva Darshan stretch alone can run several hours, and overall free-darshan waits commonly reach 18–24 hours on busy days; the honest breakdown is in the <a href="/tirumala-darshan-waiting-time/">waiting time guide</a>.
+So settle in, keep your group together, and be patient — the system is designed to move you forward in turn. Inside the compartment system, the Sarva Darshan stretch alone can run several hours, and overall free-darshan waits commonly reach 18–24 hours on busy days; the honest breakdown is in the <a href="/tirumala-darshan-waiting-time-2026-2026/">waiting time guide</a>.
 <h2>Lockers — deposit mobile &amp; leather first</h2>
 Before the queue, you must deposit certain items in a locker:
 <ul>
@@ -115,7 +115,7 @@ Free and coin-operated lockers are available near the VQC entrance and a cloak r
 </tr>
 </tbody>
 </table>
-For elders specifically, the dedicated <a href="/senior-citizen-tirumala-darshan/">senior citizen darshan</a> spares them the long general wait — use it rather than the Sarva Darshan compartments.
+For elders specifically, the dedicated <a href="/senior-citizens-special-facities/">senior citizen darshan</a> spares them the long general wait — use it rather than the Sarva Darshan compartments.
 <h2>❌ Common Mistakes — at the VQC</h2>
 <ul>
  	<li>❌ <strong>Entering the wrong hall:</strong> Sarva Darshan and SED halls are separate. Ask staff before sitting anywhere.</li>
@@ -124,13 +124,13 @@ For elders specifically, the dedicated <a href="/senior-citizen-tirumala-darshan
  	<li>❌ <strong>Trying to switch compartments:</strong> The flow is one-directional; leaving your compartment loses your position.</li>
  	<li>❌ <strong>Arriving without an SSD token for free darshan:</strong> Collect it in Tirupati first; turning up without one means the slow non-token line.</li>
  	<li>❌ <strong>Coming without original ID:</strong> Random ID checks happen — carry original Aadhaar.</li>
- 	<li>❌ <strong>Ignoring the dress code:</strong> Improper attire means no entry — read the <a href="/tirumala-dress-code-rules/">dress code rules</a> first.</li>
+ 	<li>❌ <strong>Ignoring the dress code:</strong> Improper attire means no entry — read the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a> first.</li>
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
- 	<li><a href="/tirumala-darshan-waiting-time/">Tirumala Darshan Waiting Time — Honest Guide</a></li>
- 	<li><a href="/tirumala-darshan-token-system/">Tirumala Darshan Token System — ePass vs Physical Token</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
+ 	<li><a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala Darshan Waiting Time — Honest Guide</a></li>
+ 	<li><a href="/tirumala-darshan-token-system-2026-epass-vs-physical-token-vs-online-slot-2026-epass-vs-physical-token-vs-online-slot/">Tirumala Darshan Token System — ePass vs Physical Token</a></li>
  	<li><a href="/tirumala-mobile-locker-guide/">Tirumala Mobile &amp; Locker Guide</a></li>
  	<li><a href="/tirumala-ai-crowd-management/">Tirumala AI Crowd Management — How It Works</a></li>
 </ul>

@@ -217,7 +217,7 @@ Before confirming, verify:
  	<li><strong>Return:</strong> Tirumala → Tirupati bus (last ~10 PM) → auto to hotel</li>
  	<li><strong>Tip:</strong> arrange the morning auto/taxi through reception the previous night — finding a street auto at 4 AM is hard</li>
 </ul>
-💡 <strong>Insider Tip:</strong> Many 3-star hotels offer a Tirumala shuttle (₹200–300 per person) — for a group of 4+, sharing a private taxi (₹800 ÷ 4 = ₹200 each) works out the same. All the ways to go up are in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala guide</a>.
+💡 <strong>Insider Tip:</strong> Many 3-star hotels offer a Tirumala shuttle (₹200–300 per person) — for a group of 4+, sharing a private taxi (₹800 ÷ 4 = ₹200 each) works out the same. All the ways to go up are in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala guide</a>.
 <h2>❌ Common mistakes</h2>
 <ul>
  	<li>❌ <strong>Booking on price alone, ignoring location:</strong> a ₹1,500 3-star that's 8 km from the bus stand means ₹300/day extra in autos plus the hassle. Check location — bus stand within 3 km.</li>

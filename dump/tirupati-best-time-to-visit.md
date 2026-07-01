@@ -518,7 +518,7 @@ When North India has school and office holidays, the Tirupati crowd automaticall
 </tr>
 </tbody>
 </table>
-For how queues vary by season, read the <a href="/tirumala-darshan-waiting-time/">Tirumala darshan waiting time guide</a>.
+For how queues vary by season, read the <a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala darshan waiting time guide</a>.
 <h2>What to pack by season</h2>
 <table>
 <thead>
@@ -560,7 +560,7 @@ See the full <a href="/tirupati-packing-list/">season-wise Tirupati packing list
 <ul>
  	<li><a href="/tirupati-2-day-itinerary/">Tirupati 2-day itinerary — the perfect plan</a></li>
  	<li><a href="/tirupati-1-day-darshan/">Tirupati 1-day darshan — is it really possible?</a></li>
- 	<li><a href="/tirumala-darshan-waiting-time/">Tirumala darshan waiting time — season-wise honest guide</a></li>
+ 	<li><a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala darshan waiting time — season-wise honest guide</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">SED ₹300 ticket — when and how to book</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati packing list — what to carry by season</a></li>
 </ul>

@@ -156,7 +156,7 @@ The Brahmotsavam experience at Tirumala is fundamentally different from a normal
 </tr>
 </tbody>
 </table>
-⚠️ <strong>Important:</strong> "20–30 hour queue" is not an exaggeration. During Brahmotsavam the Sarva Darshan queue runs overnight — people sleep in the line and have darshan the next day. Prepare for it mentally and physically. See the <a href="/tirumala-darshan-waiting-time/">Tirumala darshan waiting time guide</a>.
+⚠️ <strong>Important:</strong> "20–30 hour queue" is not an exaggeration. During Brahmotsavam the Sarva Darshan queue runs overnight — people sleep in the line and have darshan the next day. Prepare for it mentally and physically. See the <a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala darshan waiting time guide</a>.
 <h2>3-month advance planning checklist</h2>
 <h3>3 months before</h3>
 <ul>
@@ -249,7 +249,7 @@ North India's school and office holidays in October overlap with the Navaratri B
 <ul>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">SED ₹300 ticket — advance booking for Brahmotsavam</a></li>
  	<li><a href="/ttd-accommodation-online-booking/">TTD accommodation booking — how to get it for Brahmotsavam</a></li>
- 	<li><a href="/tirumala-darshan-waiting-time/">Tirumala darshan waiting time — what to expect during the festival</a></li>
+ 	<li><a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala darshan waiting time — what to expect during the festival</a></li>
  	<li><a href="/tirupati-best-time-to-visit/">Best time to visit Tirupati — September–October crowd guide</a></li>
  	<li><a href="/tirupati-2-day-itinerary/">Tirupati itinerary — extend to a 3-day festival version</a></li>
 </ul>

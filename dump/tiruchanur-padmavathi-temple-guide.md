@@ -150,7 +150,7 @@ The dress code at Tiruchanur is not as strict as Tirumala, but traditional cloth
  	<li>✅ Women: saree / salwar suit / churidar</li>
  	<li>❌ Shorts, sleeveless and jeans — avoid (TTD temple premises)</li>
 </ul>
-💡 <strong>Insider Tip:</strong> If you have come straight from Tirumala and were already in a dhoti, the same outfit works here — no need for a change. The full guidance is in the <a href="/tirumala-dress-code-rules/">Tirumala dress code guide</a>.
+💡 <strong>Insider Tip:</strong> If you have come straight from Tirumala and were already in a dhoti, the same outfit works here — no need for a change. The full guidance is in the <a href="/tirumala-dress-code-rules-2026-2026/">Tirumala dress code guide</a>.
 <h2>Prasadam and offerings</h2>
 The Tiruchanur temple has a TTD prasadam counter offering:
 <ul>
@@ -229,7 +229,7 @@ You can combine Tiruchanur with:
  	<li><a href="/kapila-theertham-tirupati/">Kapila Theertham — Shiva temple and waterfall</a></li>
  	<li><a href="/sri-kalahasti-temple-guide/">Sri Kalahasti temple guide</a></li>
  	<li><a href="/tirupati-town-guide/">Tirupati town guide — temples and local transport</a></li>
- 	<li><a href="/tirumala-dress-code-rules/">Tirumala dress code rules — what to wear</a></li>
+ 	<li><a href="/tirumala-dress-code-rules-2026-2026/">Tirumala dress code rules — what to wear</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tiruchanur Padmavathi Temple</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="How far is Tiruchanur Padmavathi temple from Tirupati?" answer-0="About 5 km from Tirupati railway station — 15–20 minutes by auto, or ₹15–₹20 by APSRTC bus. Coming directly from Tirumala, you go via Tirupati town, for a total of about 30–40 minutes." count="1" html="true"]

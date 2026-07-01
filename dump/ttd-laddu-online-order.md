@@ -176,7 +176,7 @@ Keep your Order ID and the payment confirmation safe — both help with any comp
  	<li><a href="/tirumala-laddu-prasad-guide/">Tirumala laddu prasad — price, types and how to avoid fakes</a></li>
  	<li><a href="/tirumala-annadanam-guide/">Tirumala Annadanam — free meals for pilgrims</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan booking — what's included</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala darshan — full breakdown</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala darshan — full breakdown</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati packing list — carrying laddus home</a></li>
 </ul>
 <h2>Frequently Asked Questions — TTD Laddu Online Order</h2>

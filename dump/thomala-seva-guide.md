@@ -119,7 +119,7 @@ Dress enforcement at sevas is stricter than for regular darshan — wrong attire
 </tr>
 </tbody>
 </table>
-⚠️ <strong>Important:</strong> If you're not used to a dhoti, practise tying it before the trip — you can also buy/rent one at Tirumala for ₹100–₹200. Full details are in the <a href="/tirumala-dress-code-rules/">Tirumala dress code rules</a>.
+⚠️ <strong>Important:</strong> If you're not used to a dhoti, practise tying it before the trip — you can also buy/rent one at Tirumala for ₹100–₹200. Full details are in the <a href="/tirumala-dress-code-rules-2026-2026/">Tirumala dress code rules</a>.
 <h2>Practical tips for Thomala Seva</h2>
 <ul>
  	<li><strong>Stay on Tirumala the night before:</strong> A pre-dawn reporting time is far easier if you're already on the hill. See <a href="/tirumala-stay-options-pilgrims/">Tirumala stay options</a>.</li>
@@ -144,7 +144,7 @@ Dress enforcement at sevas is stricter than for regular darshan — wrong attire
  	<li><a href="/ttd-arjitha-sevas-list/">TTD Arjitha Sevas — Complete List, Timings &amp; Cost</a></li>
  	<li><a href="/free-vs-paid-sevas-tirumala/">Free vs Paid Sevas at Tirumala — Full Comparison</a></li>
  	<li><a href="/ttd-seva-ticket-booking/">TTD Seva Ticket Booking — All Sevas &amp; How to Book</a></li>
- 	<li><a href="/tirumala-dress-code-rules/">Tirumala Dress Code Rules</a></li>
+ 	<li><a href="/tirumala-dress-code-rules-2026-2026/">Tirumala Dress Code Rules</a></li>
 </ul>
 <h2>Frequently Asked Questions — Thomala Seva</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="What is Thomala Seva?" answer-0="Thomala Seva is an early-morning Arjitha Seva at Tirumala in which Lord Venkateswara is adorned with fresh flower and Tulasi garlands, right after the Suprabhatam awakening. 'Thomala' means garland in Telugu. A limited number of devotees can participate and witness the adornment from close to the sanctum." count="1" html="true"]

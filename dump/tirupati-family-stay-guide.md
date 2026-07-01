@@ -150,7 +150,7 @@ TTD-managed accommodation is the best value for families — controlled rates, s
  	<li>✅ <strong>Hospital proximity:</strong> check that the nearest hospital is 10 minutes away at most</li>
  	<li>✅ <strong>Wheelchair accessibility:</strong> ground-floor ramp + wide doors, if needed</li>
 </ul>
-⚠️ <strong>Important:</strong> With seniors, the hotel choice is literally a health issue. A cheap room + no elevator + Indian toilet = knee-injury risk. Keep a ₹1,500+ budget for senior comfort — it's cheaper than a medical bill. Also see the <a href="/senior-citizen-tirumala-darshan/">senior citizen Tirumala darshan guide</a>.
+⚠️ <strong>Important:</strong> With seniors, the hotel choice is literally a health issue. A cheap room + no elevator + Indian toilet = knee-injury risk. Keep a ₹1,500+ budget for senior comfort — it's cheaper than a medical bill. Also see the <a href="/senior-citizens-special-facities/">senior citizen Tirumala darshan guide</a>.
 <h2>Booking strategy — for a family trip</h2>
 <ul>
  	<li><strong>Early:</strong> try TTD accommodation the moment the online quota opens — set a reminder for the release date</li>
@@ -207,7 +207,7 @@ TTD-managed accommodation is the best value for families — controlled rates, s
  	<li><a href="/tirupati-budget-hotels-1000/">Tirupati hotels under ₹1,000 — the budget list</a></li>
  	<li><a href="/tirupati-railway-station-hotels/">Hotels near Tirupati railway station — top 10 picks</a></li>
  	<li><a href="/tirumala-stay-options-pilgrims/">Tirumala stay options — where pilgrims can sleep</a></li>
- 	<li><a href="/senior-citizen-tirumala-darshan/">Senior citizen Tirumala darshan — special facilities</a></li>
+ 	<li><a href="/senior-citizens-special-facities/">Senior citizen Tirumala darshan — special facilities</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tirupati Family Stay</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="How much is a hotel for a family of 5 in Tirupati?" answer-0="A decent AC room (triple occupancy or family room) for five is about ₹1,500–2,500/night in mid-range hotels. The budget option is ₹1,000–1,500 (basic but functional) and premium ₹3,000–5,000 (full comfort). If you need two separate rooms, double the budget." count="1" html="true"]

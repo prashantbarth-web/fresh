@@ -104,7 +104,7 @@ One honest caveat up front: this reform is still evolving, and TTD adjusts the r
 </ul>
 <h2>Smart booking strategy under the new system</h2>
 <ul>
- 	<li><strong>Book the SED ticket (₹300):</strong> linked accommodation is for SED holders — <a href="/ttd-darshan-dates-kaise-check-karen/">check available dates</a> first</li>
+ 	<li><strong>Book the SED ticket (₹300):</strong> linked accommodation is for SED holders — <a href="/how-to-check-ttd-darshan-availability/">check available dates</a> first</li>
  	<li><strong>Select the room at darshan-booking time:</strong> "later" = quota gone</li>
  	<li><strong>Backup — general (non-linked) quota:</strong> try the independent advance booking on the TTD website in parallel</li>
  	<li><strong>Double backup — private hotel:</strong> book a <a href="/tirupati-3-star-hotels/">Tirupati 3-star hotel</a> with free cancellation — cancel if TTD comes through, safe if it doesn't</li>

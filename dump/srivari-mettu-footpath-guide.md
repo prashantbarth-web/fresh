@@ -226,7 +226,7 @@ If you can do Alipiri comfortably in 3.5 hours, you'll likely do Srivari Mettu i
 Srivari Mettu walkers get the same <a href="/divya-darshan-free-token-guide/">Divya Darshan token</a> as Alipiri walkers — a free priority darshan.
 <ul>
  	<li><strong>Where:</strong> a designated counter on reaching Tirumala (ask staff for directions)</li>
- 	<li><strong>Waiting time:</strong> 2–4 hours (versus 8–20 hours for regular <a href="/tirumala-darshan-waiting-time/">Sarva Darshan</a>)</li>
+ 	<li><strong>Waiting time:</strong> 2–4 hours (versus 8–20 hours for regular <a href="/tirumala-darshan-waiting-time-2026-2026/">Sarva Darshan</a>)</li>
  	<li><strong>Eligibility:</strong> only for those who walk the complete path — a partial walk + vehicle means no token</li>
  	<li><strong>Timing:</strong> early-morning arrivals (6–8 AM) get the best chance — tokens are limited daily</li>
 </ul>
@@ -282,9 +282,9 @@ Srivari Mettu walkers get the same <a href="/divya-darshan-free-token-guide/">Di
 <h2>📚 Also read</h2>
 <ul>
  	<li><a href="/alipiri-footpath-trek-guide/">Alipiri footpath trek — the complete walk to Tirumala</a></li>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala — bus, taxi and footpath options</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">Tirupati to Tirumala — bus, taxi and footpath options</a></li>
  	<li><a href="/divya-darshan-free-token-guide/">Divya Darshan free token — the walker's priority darshan</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala darshan 2026 — full breakdown</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala darshan 2026 — full breakdown</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati packing list — what not to forget</a></li>
 </ul>
 <h2>Frequently Asked Questions — Srivari Mettu Footpath</h2>

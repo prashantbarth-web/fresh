@@ -170,7 +170,7 @@ Technically yes, but not identically. The ingredients are documented — besan, 
 </tr>
 </tbody>
 </table>
-Read the <a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan booking guide</a>, and to see how all the darshan types compare, the <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+Read the <a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan booking guide</a>, and to see how all the darshan types compare, the <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 <h2>❌ Common mistakes</h2>
 <ul>
  	<li>❌ <strong>Buying "Tirupati Laddu" from town shops:</strong> it is not the authentic GI prasadam — the real one is only at Tirumala counters or the TTD portal.</li>
@@ -183,7 +183,7 @@ Read the <a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Ent
 <h2>📚 Also read</h2>
 <ul>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan booking — what's included</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala darshan — full breakdown</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala darshan — full breakdown</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati packing list — carrying laddus home</a></li>
  	<li><a href="/free-vs-paid-sevas-tirumala/">Free vs paid sevas — Annadanam and prasadam compared</a></li>
  	<li><a href="/ttd-darshan-rules-2026/">TTD darshan rules 2026 — latest changes</a></li>

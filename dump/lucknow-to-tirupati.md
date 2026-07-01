@@ -59,7 +59,7 @@ Delhi–Tirupati trains run daily, so this route gives you the most options if t
 </tr>
 </tbody>
 </table>
-See the full <a href="/delhi-se-tirupati-kaise-jayen/">Delhi to Tirupati train list and guide</a>. Keep a comfortable gap in Delhi between the two trains.
+See the full <a href="/delhi-se-tirupati/">Delhi to Tirupati train list and guide</a>. Keep a comfortable gap in Delhi between the two trains.
 <h3>Route 3 — Via Hyderabad</h3>
 Useful when the direct train has no confirmed berth.
 <table>
@@ -256,7 +256,7 @@ Tirupati city and the Tirumala hill temple are different places — the temple i
 </tr>
 </tbody>
 </table>
-After a 40-hour train journey, the TTD bus is the most sensible choice — cheap, frequent, running from early morning till late. Full details in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala travel guide</a>.
+After a 40-hour train journey, the TTD bus is the most sensible choice — cheap, frequent, running from early morning till late. Full details in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala travel guide</a>.
 <h2>Lucknow to Tirupati — recommended 4-day plan</h2>
 <table>
 <tbody>
@@ -302,7 +302,7 @@ Once your travel is booked, the next priority is your darshan ticket.
  	<li>Slots for popular dates sell out within minutes, so be ready when the month's quota opens.</li>
  	<li>Each ticket is non-transferable — the named person must show the matching original ID.</li>
 </ul>
-If you do not get a ₹300 slot, free Sarva Darshan (now the SSD token system, collected at Tirupati counters) is the backup. Step-by-step: <a href="/ttd-special-entry-darshan-online-booking/">TTD ₹300 Special Entry Darshan online booking guide</a>. To understand all the options, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+If you do not get a ₹300 slot, free Sarva Darshan (now the SSD token system, collected at Tirupati counters) is the backup. Step-by-step: <a href="/ttd-special-entry-darshan-online-booking/">TTD ₹300 Special Entry Darshan online booking guide</a>. To understand all the options, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 <h2>❌ Common mistakes — UP to Tirupati</h2>
 <ul>
  	<li>❌ <strong>Assuming a guaranteed daily direct train:</strong> direct LKO–TPTY options are limited and not daily. Search your exact date and keep via-Delhi/Hyderabad as a backup.</li>
@@ -315,11 +315,11 @@ If you do not get a ₹300 slot, free Sarva Darshan (now the SSD token system, c
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/delhi-se-tirupati-kaise-jayen/">Delhi to Tirupati — train, flight and bus guide</a></li>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala — every way to reach the hill temple</a></li>
+ 	<li><a href="/delhi-se-tirupati/">Delhi to Tirupati — train, flight and bus guide</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">Tirupati to Tirumala — every way to reach the hill temple</a></li>
  	<li><a href="/tirupati-2-day-itinerary/">Tirupati 2-day itinerary — complete plan</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD ₹300 Special Entry Darshan — step-by-step booking</a></li>
- 	<li><a href="/tirumala-darshan-best-time/">Best time for Tirumala darshan — how to avoid the crowd</a></li>
+ 	<li><a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">Best time for Tirumala darshan — how to avoid the crowd</a></li>
  	<li><a href="/ttd-accommodation-online-booking/">TTD accommodation online booking — cottages and guest houses</a></li>
 </ul>
 <h2>Frequently Asked Questions — Lucknow to Tirupati</h2>

@@ -125,9 +125,9 @@ Managing the ePass through the official TTD Govinda app is more convenient than 
 <h2>📚 Also read</h2>
 <ul>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD SED ₹300 online booking — step-by-step 2026</a></li>
- 	<li><a href="/tirumala-darshan-token-system/">Tirumala darshan token system — ePass vs physical token vs online slot</a></li>
+ 	<li><a href="/tirumala-darshan-token-system-2026-epass-vs-physical-token-vs-online-slot-2026-epass-vs-physical-token-vs-online-slot/">Tirumala darshan token system — ePass vs physical token vs online slot</a></li>
  	<li><a href="/ttd-ticket-cancel-2026-refund/">TTD ticket cancellation and refund guide</a></li>
- 	<li><a href="/tirumala-dress-code-rules/">Tirumala dress code — what's allowed at the gate</a></li>
+ 	<li><a href="/tirumala-dress-code-rules-2026-2026/">Tirumala dress code — what's allowed at the gate</a></li>
 </ul>
 <h2>Frequently Asked Questions — TTD ePass</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="What is a TTD ePass?" answer-0="The ePass is a digital entry ticket generated in PDF format after a TTD online booking. It contains a QR code, pilgrim name, slot time and ID details. At the Tirumala entry gate, this is what you show — entry is not possible without it for SED/Seva tickets." count="1" html="true"]

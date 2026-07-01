@@ -60,9 +60,9 @@ The wait differs hugely by darshan type. Here's a realistic estimate for 2026:
 </tr>
 </tbody>
 </table>
-⚠️ <strong>Important:</strong> These are averages. During Brahmotsavam, Vaikunta Ekadasi or national holidays, the free Sarva Darshan can exceed 24 hours. Always plan for the worst case. For how each type works, see <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+⚠️ <strong>Important:</strong> These are averages. During Brahmotsavam, Vaikunta Ekadasi or national holidays, the free Sarva Darshan can exceed 24 hours. Always plan for the worst case. For how each type works, see <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 
-[caption id="attachment_160" align="alignnone" width="1024"]<img class="wp-image-160 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/05/tirumala-darshan-waiting-time-guide-2026-1024x683.webp" alt="तिरुमला दर्शन में कितना समय लगता है 2026 — Sarva Darshan और SED waiting time guide" width="1024" height="683" /> तिरुमला दर्शन में कितना समय लगता है 2026 — Sarva Darshan और SED waiting time guide[/caption]
+[caption id="attachment_160" align="alignnone" width="1024"]<img class="wp-image-160 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/05/tirumala-darshan-waiting-time-2026-2026-guide-2026-1024x683.webp" alt="तिरुमला दर्शन में कितना समय लगता है 2026 — Sarva Darshan और SED waiting time guide" width="1024" height="683" /> तिरुमला दर्शन में कितना समय लगता है 2026 — Sarva Darshan और SED waiting time guide[/caption]
 <h2>💡 Gap: SSD token vs no token — the big 2026 difference</h2>
 This is the distinction almost every guide misses, and it can save you ten-plus hours. In 2026, free darshan effectively splits into two lines:
 <ul>
@@ -71,7 +71,7 @@ This is the distinction almost every guide misses, and it can save you ten-plus 
 </ul>
 So the single biggest free-darshan decision isn't when you arrive — it's whether you got an SSD token first. The official daily darshan report on tirumala.org literally lists the "Sarvadarshanam (without SSD Tokens)" time separately, and it's regularly the longest figure on the board.
 
-💡 <strong>Insider Tip:</strong> Collect your SSD token in Tirupati before going up. It costs nothing and routinely halves the free-darshan wait. The token process is covered in the <a href="/tirumala-darshan-ke-prakar/">darshan types guide</a>.
+💡 <strong>Insider Tip:</strong> Collect your SSD token in Tirupati before going up. It costs nothing and routinely halves the free-darshan wait. The token process is covered in the <a href="/types-of-tirumala-darshan/">darshan types guide</a>.
 <h2>Sarva Darshan waiting time — by day</h2>
 The free queue is the longest because it's the most used. Day of the week matters more than almost anything else.
 <table>
@@ -118,7 +118,7 @@ The free queue is the longest because it's the most used. Day of the week matter
 </tr>
 </tbody>
 </table>
-💡 <strong>Insider Tip:</strong> Inside the VQC you sit on the floor in halls for hours, shifting compartment by compartment — carry a thin sheet, water and snacks. The full layout is in the <a href="/vqc-vaikuntam-queue-complex-guide/">VQC guide</a>.
+💡 <strong>Insider Tip:</strong> Inside the VQC you sit on the floor in halls for hours, shifting compartment by compartment — carry a thin sheet, water and snacks. The full layout is in the <a href="/vaikuntam-queue-complex-vqc-guide/">VQC guide</a>.
 <h2>Special Entry &amp; Divya Darshan times</h2>
 The <strong>₹300 Special Entry Darshan</strong> is the comfortable option — you book online, get a fixed time slot, and usually finish in 2–4 hours. Reach the counter at least 2 hours before your slot, as there's a verification line. The booking walkthrough is in the <a href="/ttd-special-entry-darshan-online-booking/">SED booking guide</a>.
 
@@ -142,25 +142,25 @@ Check the <a href="/ttd-darshan-news-today/">TTD darshan news</a> and the <a hre
 <h2>Best (and worst) times to go</h2>
 <strong>Lightest:</strong> July and August (monsoon, non-festival), February, and mid-January after Vaikunta Ekadasi — Sarva Darshan can drop to 5–10 hours. <strong>Avoid:</strong> Brahmotsavam, Vaikunta Ekadasi, May–June holidays, around Diwali, and every Saturday.
 
-🌅 <strong>Best combination:</strong> a Monday/Tuesday + July/August + an SSD token (or ₹300 booking) = the smoothest darshan you'll get. For a month-by-month view, read the <a href="/tirumala-darshan-best-time/">best time to visit guide</a>.
+🌅 <strong>Best combination:</strong> a Monday/Tuesday + July/August + an SSD token (or ₹300 booking) = the smoothest darshan you'll get. For a month-by-month view, read the <a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">best time to visit guide</a>.
 <h2>Honest advice for first-timers, kids &amp; seniors</h2>
-An 18–24 hour free queue is genuinely hard with children under five or seniors over seventy — hours on the floor, then standing and walking in line. For them, the ₹300 Special Entry Darshan is the right call; the cost is small next to the comfort. Seniors also get priority at dedicated counters — see the <a href="/senior-citizen-tirumala-darshan/">senior citizen darshan guide</a>. And pack for the wait using the <a href="/tirupati-packing-list/">Tirupati packing list</a>.
+An 18–24 hour free queue is genuinely hard with children under five or seniors over seventy — hours on the floor, then standing and walking in line. For them, the ₹300 Special Entry Darshan is the right call; the cost is small next to the comfort. Seniors also get priority at dedicated counters — see the <a href="/senior-citizens-special-facities/">senior citizen darshan guide</a>. And pack for the wait using the <a href="/tirupati-packing-list/">Tirupati packing list</a>.
 <h2>❌ Common Mistakes — underestimating the wait</h2>
 <ul>
  	<li>❌ <strong>Planning for 2 hours, waiting 18:</strong> Assume a realistic minimum — and for free darshan, plan for many hours, not a couple.</li>
  	<li>❌ <strong>Joining the free queue with no SSD token:</strong> The non-token line can hit 24 hours. Get the free token in Tirupati first.</li>
  	<li>❌ <strong>Believing night is emptier:</strong> The queue runs all night. Pick a weekday instead.</li>
- 	<li>❌ <strong>Ignoring the dress code before queuing:</strong> Waiting 8 hours then being refused at the gate is brutal — read the <a href="/tirumala-dress-code-rules/">dress code rules</a> first.</li>
+ 	<li>❌ <strong>Ignoring the dress code before queuing:</strong> Waiting 8 hours then being refused at the gate is brutal — read the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a> first.</li>
  	<li>❌ <strong>Going on a festival date unprepared:</strong> Brahmotsavam and Vaikunta Ekadasi mean 24–40+ hours. Be mentally and physically ready.</li>
  	<li>❌ <strong>Booking a faraway hotel:</strong> Travel time adds to your effective queue time. Stay in Tirupati or Tirumala.</li>
  	<li>❌ <strong>Not checking the live status:</strong> The daily tirumala.org report and VQC boards tell you the real wait — use them.</li>
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
- 	<li><a href="/vqc-vaikuntam-queue-complex-guide/">Vaikuntam Queue Complex (VQC) Guide</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
+ 	<li><a href="/vaikuntam-queue-complex-vqc-guide/">Vaikuntam Queue Complex (VQC) Guide</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan Booking — Step by Step</a></li>
- 	<li><a href="/tirumala-darshan-best-time/">Best Time for Tirumala Darshan — Month by Month</a></li>
+ 	<li><a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">Best Time for Tirumala Darshan — Month by Month</a></li>
  	<li><a href="/tirumala-crowd-forecast-2026/">Tirumala Crowd Forecast 2026</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tirumala Darshan Waiting Time</h2>

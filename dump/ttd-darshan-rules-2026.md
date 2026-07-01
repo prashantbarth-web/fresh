@@ -24,7 +24,7 @@ If you only remember one thing from this article, remember this: the two rules p
 
 Earlier, free Sarva Darshan meant "just walk up and join the line." Now it runs on a Slotted Sarva Darshan (SSD) system — you collect a token, with a time slot, before you can enter the queue. And the popular ₹300 Special Entry Darshan is no longer a simple "book 45 days ahead at midnight." TTD releases it as a monthly online quota on a pre-announced date.
 
-💡 <strong>Gap:</strong> Most older guides still describe a midnight 45-day SED window and a walk-in free queue. Both are outdated. The single most useful 2026 habit is to check the TTD <a href="/tirumala-darshan-token-system/">darshan token system</a> and the current month's quota dates before you plan anything.
+💡 <strong>Gap:</strong> Most older guides still describe a midnight 45-day SED window and a walk-in free queue. Both are outdated. The single most useful 2026 habit is to check the TTD <a href="/tirumala-darshan-token-system-2026-epass-vs-physical-token-vs-online-slot-2026-epass-vs-physical-token-vs-online-slot/">darshan token system</a> and the current month's quota dates before you plan anything.
 
 ⚠️ <strong>Important:</strong> Rule tightening usually happens around festivals — Brahmotsavam, Vaikunta Ekadasi, long weekends. If your trip falls near those dates, re-check everything a few days before you leave.
 
@@ -55,7 +55,7 @@ Dress code is the most strictly enforced rule at Tirumala. There is checking at 
 </tr>
 </tbody>
 </table>
-⚠️ <strong>Important:</strong> "Long kurta over jeans" is a grey area — some gates allow it, some do not, and the gate staff's decision is final. To be safe, stick to a saree or salwar-kameez. Read the full <a href="/tirumala-dress-code-rules/">Tirumala dress code rules</a> before you pack.
+⚠️ <strong>Important:</strong> "Long kurta over jeans" is a grey area — some gates allow it, some do not, and the gate staff's decision is final. To be safe, stick to a saree or salwar-kameez. Read the full <a href="/tirumala-dress-code-rules-2026-2026/">Tirumala dress code rules</a> before you pack.
 
 💡 <strong>Insider Tip:</strong> Shops near the temple rent out dhotis and sarees, but in a rush the quality is basic and you waste queue time. Carry the right clothes from home.
 <h2>Mobile phone and electronics rules</h2>
@@ -124,7 +124,7 @@ For the full process, see the <a href="/ttd-special-entry-darshan-online-booking
  	<li>Tokens are often for the next day; the token carries a reporting slot.</li>
  	<li>Waiting time with a token is generally several hours; without a token (the non-token line) it can stretch much longer on busy days.</li>
 </ul>
-Details are in the <a href="/ttd-sarva-darshan-booking/">Sarva Darshan booking guide</a>.
+Details are in the <a href="/ttd-sarva-darshan-ticket-booking/">Sarva Darshan booking guide</a>.
 <h3>Divya Darshan (footpath pilgrims)</h3>
 <ul>
  	<li>For pilgrims walking up via Alipiri or Srivari Mettu — a token is issued on the footpath.</li>
@@ -165,7 +165,7 @@ Beyond phones, a few categories are routinely stopped. Knowing them in advance s
 <h2>Special categories — seniors, differently-abled, children</h2>
 TTD provides separate arrangements for some groups, and these are genuinely worth using rather than standing in the general line.
 <ul>
- 	<li><strong>Senior citizens:</strong> a dedicated darshan provision with limited daily quota; carry age proof, and one companion is generally allowed. The full details are in the <a href="/senior-citizen-tirumala-darshan/">senior citizens Tirumala darshan guide</a>.</li>
+ 	<li><strong>Senior citizens:</strong> a dedicated darshan provision with limited daily quota; carry age proof, and one companion is generally allowed. The full details are in the <a href="/senior-citizens-special-facities/">senior citizens Tirumala darshan guide</a>.</li>
  	<li><strong>Differently-abled pilgrims:</strong> wheelchair help and special entry support are available — it helps to inform staff in advance.</li>
  	<li><strong>Children:</strong> very young children enter with parents; for older children, carry an ID such as a school ID or birth certificate where possible.</li>
 </ul>
@@ -189,10 +189,10 @@ The famous Tirumala <a href="/tirumala-laddu-prasad-guide/">Laddu Prasadam</a> f
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala darshan 2026 — full breakdown</a></li>
- 	<li><a href="/tirumala-dress-code-rules/">Tirumala dress code rules — what to wear, what not to</a></li>
- 	<li><a href="/tirumala-darshan-token-system/">Tirumala darshan token system — ePass vs physical token vs online slot</a></li>
- 	<li><a href="/tirumala-darshan-best-time/">Best time for Tirumala darshan — how to avoid the crowd</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala darshan 2026 — full breakdown</a></li>
+ 	<li><a href="/tirumala-dress-code-rules-2026-2026/">Tirumala dress code rules — what to wear, what not to</a></li>
+ 	<li><a href="/tirumala-darshan-token-system-2026-epass-vs-physical-token-vs-online-slot-2026-epass-vs-physical-token-vs-online-slot/">Tirumala darshan token system — ePass vs physical token vs online slot</a></li>
+ 	<li><a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">Best time for Tirumala darshan — how to avoid the crowd</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati packing list — what not to forget</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tirumala Darshan Rules 2026</h2>

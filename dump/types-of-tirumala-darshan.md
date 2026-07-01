@@ -27,7 +27,7 @@ Most guides still describe the old system. Here's what's actually different now,
  	<li><strong>Strict time slots:</strong> Since around March 2026, your slot time is enforced — if your ticket says 4:00 PM, you enter only in that window.</li>
  	<li><strong>Peak suspensions:</strong> During heavy rushes (summer holidays, Vaikunta Ekadasi, Ratha Saptami), TTD can suspend VIP darshan and SSD tokens to clear the general crowd.</li>
 </ul>
-⚠️ <strong>Important:</strong> Because rules keep shifting, always confirm the current system on <a href="https://www.tirumala.org/" rel="nofollow">tirumala.org</a> before you travel, and read the <a href="/ttd-darshan-rules-2026/">latest TTD darshan rules</a> and the <a href="/tirumala-darshan-token-system/">token system explained</a>.
+⚠️ <strong>Important:</strong> Because rules keep shifting, always confirm the current system on <a href="https://www.tirumala.org/" rel="nofollow">tirumala.org</a> before you travel, and read the <a href="/ttd-darshan-rules-2026/">latest TTD darshan rules</a> and the <a href="/tirumala-darshan-token-system-2026-epass-vs-physical-token-vs-online-slot-2026-epass-vs-physical-token-vs-online-slot/">token system explained</a>.
 
 [caption id="attachment_141" align="alignnone" width="1024"]<img class="wp-image-141 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/05/tirumala-darshan-prakar-chart-1024x683.webp" alt="तिरुमला के सभी दर्शन प्रकार तुलना चार्ट" width="1024" height="683" /> Darshan types comparison infographic[/caption]
 <h2>1. Sarva Darshan (free) — now via SSD time-slot tokens</h2>
@@ -39,7 +39,7 @@ Where to get the free token: counters in Tirupati such as Srinivasam, Vishnu Niv
  	<li>Night doesn't mean empty — Tirumala stays crowded around the clock.</li>
  	<li>With small children or elderly parents, this queue is genuinely very hard — consider other options.</li>
 </ul>
-💡 <strong>Insider Tip:</strong> Inside the VQC you wait in numbered halls, often seated on the floor for hours — carry a thin sheet, water and light snacks. Mobiles, leather items and belts must go into lockers first. Full detail is in the <a href="/sarva-darshan-guide-hindi/">Sarva Darshan guide</a> and the <a href="/vqc-vaikuntam-queue-complex-guide/">VQC guide</a>.
+💡 <strong>Insider Tip:</strong> Inside the VQC you wait in numbered halls, often seated on the floor for hours — carry a thin sheet, water and light snacks. Mobiles, leather items and belts must go into lockers first. Full detail is in the <a href="/sarva-darshan-guide/">Sarva Darshan guide</a> and the <a href="/vaikuntam-queue-complex-vqc-guide/">VQC guide</a>.
 <h2>2. Special Entry Darshan (₹300) — the practical paid option</h2>
 Special Entry Darshan (SED, the "₹300 darshan") is the paid route that cuts the wait dramatically — typically 2–4 hours when released. It's what most working families and first-timers choose.
 
@@ -49,7 +49,7 @@ Key 2026 facts:
  	<li><strong>Releases in advance and sells out fast</strong> for popular dates; availability can vary month to month.</li>
  	<li><strong>Slot-strict:</strong> Reach well before your printed time window; entry is enforced by slot.</li>
 </ul>
-⚠️ <strong>Important:</strong> There have been changes to the ₹300 structure over 2024–2026, so don't assume it's always open — check current availability on the official site. The booking walkthrough is in the <a href="/ttd-special-entry-darshan-online-booking/">SED online booking guide</a>, and the basics in <a href="/special-entry-darshan-300-kya-hai/">what is ₹300 Special Entry Darshan</a>.
+⚠️ <strong>Important:</strong> There have been changes to the ₹300 structure over 2024–2026, so don't assume it's always open — check current availability on the official site. The booking walkthrough is in the <a href="/ttd-special-entry-darshan-online-booking/">SED online booking guide</a>, and the basics in <a href="/what-is-special-entry-darshan-rs300/">what is ₹300 Special Entry Darshan</a>.
 <h2>3. Divya Darshan (free) — for footpath pilgrims</h2>
 Divya Darshan is for devotees who climb to Tirumala on foot, via Alipiri (~3,500+ steps) or Srivari Mettu (~2,300+ steps). You collect a free Divya Darshan token (commonly at the Bhudevi Complex near Alipiri) and scan it along the route, getting priority over the general free queue — wait is often around 6–9 hours.
 
@@ -66,10 +66,10 @@ Older "types of darshan" guides skip these, but they're a real part of the 2026 
 <h2>4. Special categories — seniors, infants, differently-abled, NRI</h2>
 TTD runs separate arrangements for those who can't manage the long general queue:
 <ul>
- 	<li><strong>Senior citizens (65+):</strong> A dedicated darshan with shorter waits; a daily online quota is now also released in advance, alongside on-arrival slips at the counter (carry Aadhaar as age proof). One attendant is generally allowed. See the <a href="/senior-citizen-tirumala-darshan/">senior citizen darshan guide</a>.</li>
+ 	<li><strong>Senior citizens (65+):</strong> A dedicated darshan with shorter waits; a daily online quota is now also released in advance, alongside on-arrival slips at the counter (carry Aadhaar as age proof). One attendant is generally allowed. See the <a href="/senior-citizens-special-facities/">senior citizen darshan guide</a>.</li>
  	<li><strong>Infants (Supadham):</strong> Parents with a very young infant get a special quick entry (Supadham). Show the child to TTD staff for guidance.</li>
  	<li><strong>Differently-abled:</strong> Priority entry with ramps and assistance staff — inform TTD staff on arrival.</li>
- 	<li><strong>NRI darshan:</strong> A dedicated NRI counter (generally opens around midday), free, on-arrival with passport/OCI — no advance online booking. See the <a href="/nri-tirumala-darshan-guide/">NRI darshan guide</a>.</li>
+ 	<li><strong>NRI darshan:</strong> A dedicated NRI counter (generally opens around midday), free, on-arrival with passport/OCI — no advance online booking. See the <a href="/nri-darshan-guide/">NRI darshan guide</a>.</li>
 </ul>
 💡 <strong>Insider Tip:</strong> If your parents are 65+, get their senior-citizen slip first, and separately book your own darshan — the two use different entries, and pairing them this way avoids dragging elders through the main queue.
 <h2>All Tirumala darshan types compared</h2>
@@ -134,7 +134,7 @@ TTD runs separate arrangements for those who can't manage the long general queue
  	<li><strong>Want a spiritual trek:</strong> Climb Alipiri for Divya Darshan — a memorable experience.</li>
  	<li><strong>Very short on time, budget flexible:</strong> Consider SRIVANI break darshan (official only).</li>
 </ul>
-For realistic queue expectations across all types, read the honest <a href="/tirumala-darshan-waiting-time/">Tirumala darshan waiting time guide</a>.
+For realistic queue expectations across all types, read the honest <a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala darshan waiting time guide</a>.
 <h2>❌ Common Mistakes — choosing &amp; doing darshan</h2>
 <ul>
  	<li>❌ <strong>Heading to Tirumala without a token:</strong> Free darshan now needs an SSD time-slot token from a Tirupati counter. No token means the slowest line.</li>
@@ -143,15 +143,15 @@ For realistic queue expectations across all types, read the honest <a href="/tir
  	<li>❌ <strong>Putting elderly parents in the free queue:</strong> An 18–24 hour wait is unrealistic for them. Use the senior-citizen darshan.</li>
  	<li>❌ <strong>Buying "VIP darshan" from an agent:</strong> Protocol darshan isn't sold; SRIVANI is official-only. Anyone guaranteeing a ticket for cash is a scam.</li>
  	<li>❌ <strong>Carrying a phone or leather into the queue:</strong> Both must go in lockers first, or you'll be turned back.</li>
- 	<li>❌ <strong>Ignoring the dress code:</strong> Traditional dress is mandatory — read the <a href="/tirumala-dress-code-rules/">dress code rules</a> before you go.</li>
+ 	<li>❌ <strong>Ignoring the dress code:</strong> Traditional dress is mandatory — read the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a> before you go.</li>
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirumala-darshan-waiting-time/">Tirumala Darshan Waiting Time — Honest Guide</a></li>
+ 	<li><a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala Darshan Waiting Time — Honest Guide</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan Booking — Step by Step</a></li>
- 	<li><a href="/tirumala-darshan-token-system/">Tirumala Darshan Token System — ePass vs Physical Token</a></li>
+ 	<li><a href="/tirumala-darshan-token-system-2026-epass-vs-physical-token-vs-online-slot-2026-epass-vs-physical-token-vs-online-slot/">Tirumala Darshan Token System — ePass vs Physical Token</a></li>
  	<li><a href="/divya-darshan-free-token-guide/">Divya Darshan — Free Token Guide for Footpath Pilgrims</a></li>
- 	<li><a href="/senior-citizen-tirumala-darshan/">Senior Citizen Tirumala Darshan — Special Facilities</a></li>
+ 	<li><a href="/senior-citizens-special-facities/">Senior Citizen Tirumala Darshan — Special Facilities</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tirumala Darshan Types</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="How many types of darshan are there in Tirumala?" answer-0="There are several. The main public ones are free Sarva Darshan (now via SSD time-slot tokens), ₹300 Special Entry Darshan (online only), and Divya Darshan for footpath pilgrims. Beyond these are SRIVANI/VIP break darshan, plus special categories for senior citizens, infants (Supadham), differently-abled and NRI pilgrims." count="1" html="true"]

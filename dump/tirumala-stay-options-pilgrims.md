@@ -64,7 +64,7 @@ TTD provides accommodation on the Tirumala hilltop in four categories.
 </tr>
 </tbody>
 </table>
-💡 <strong>Insider Tip:</strong> Don't go to Tirumala assuming "a room will turn up." The best strategy is a ladder: try online advance booking → if not confirmed, try the offline counter on arrival → if still nothing, use a choultry/rest house → worst case, <a href="/tirupati-se-tirumala-kaise-jayen/">return to Tirupati and stay in a hotel</a>.
+💡 <strong>Insider Tip:</strong> Don't go to Tirumala assuming "a room will turn up." The best strategy is a ladder: try online advance booking → if not confirmed, try the offline counter on arrival → if still nothing, use a choultry/rest house → worst case, <a href="/tirupati-to-tirumala/">return to Tirupati and stay in a hotel</a>.
 <h2>TTD Cottages — the best stay on Tirumala</h2>
 TTD Cottages are the most comfortable option on the hill — AC rooms, attached bathroom, bed and bedding, all within walking distance of the temple.
 <h3>Types of TTD cottages</h3>
@@ -137,7 +137,7 @@ TTD maintains some large dormitory-style rest houses where any pilgrim can rest 
 Accept the reality — most pilgrims do not get a room on Tirumala. That's normal. Keep a Plan B ready.
 <h3>Option 1: Spend the night in the queue</h3>
 <ul>
- 	<li>The <a href="/vqc-vaikuntam-queue-complex-guide/">VQC (Vaikuntam Queue Complex)</a> offers floor space, with fans, toilets and drinking water</li>
+ 	<li>The <a href="/vaikuntam-queue-complex-vqc-guide/">VQC (Vaikuntam Queue Complex)</a> offers floor space, with fans, toilets and drinking water</li>
  	<li>Spread a bedsheet/thin mattress in the queue — 4–6 hours of sleep is possible</li>
  	<li>Advantage: the queue keeps advancing — no wasted time</li>
 </ul>
@@ -185,7 +185,7 @@ Accept the reality — most pilgrims do not get a room on Tirumala. That's norma
  	<li><strong>Alcohol/non-veg:</strong> strictly prohibited — eviction + penalty if caught</li>
  	<li><strong>Smoking:</strong> prohibited across the entire Tirumala area</li>
  	<li><strong>Noise:</strong> quiet after 10 PM — respect other pilgrims</li>
- 	<li><strong><a href="/tirumala-dress-code-rules/">Dress code</a>:</strong> traditional/modest — the same rules as the temple area</li>
+ 	<li><strong><a href="/tirumala-dress-code-rules-2026-2026/">Dress code</a>:</strong> traditional/modest — the same rules as the temple area</li>
 </ul>
 <h2>Amenities on Tirumala — beyond the room</h2>
 <ul>

@@ -96,9 +96,9 @@ If online rooms are sold out, there's a legitimate offline route: the <strong>CR
  	<li><strong>Regular season</strong> (Feb–Jun weekdays): rooms often available 2–3 weeks out; Tirupati options almost always.</li>
  	<li><strong>Monsoon</strong> (Jul–Sep): lighter crowds, better availability.</li>
 </ul>
-💡 <strong>Insider Tip:</strong> Cancellations free up rooms — keep checking the portal for your dates, as last-minute slots do open. Watch the <a href="/ttd-accommodation-reform-news/">accommodation reform updates</a> for any rule changes.
+💡 <strong>Insider Tip:</strong> Cancellations free up rooms — keep checking the portal for your dates, as last-minute slots do open. Watch the <a href="/tirupati-accommodation-reform-2026/">accommodation reform updates</a> for any rule changes.
 <h2>If you don't get a TTD room</h2>
-Don't panic — you have options. Book a <a href="/tirupati-budget-hotels-1000/">budget hotel in Tirupati</a> (₹800–₹2,500) or a <a href="/tirupati-dharamshala-guide/">dharamshala</a>, and travel up by bus — see <a href="/tirupati-se-tirumala-kaise-jayen/">getting to Tirumala</a>. Or shift your dates to a weekday for far better availability. Or take a <a href="/tirumala-darshan-ke-prakar/">darshan slot</a> and do a same-day return without staying over. For more hill options, see the <a href="/tirumala-stay-options-pilgrims/">Tirumala stay options guide</a>.
+Don't panic — you have options. Book a <a href="/tirupati-budget-hotels-1000/">budget hotel in Tirupati</a> (₹800–₹2,500) or a <a href="/tirupati-dharamshala-guide/">dharamshala</a>, and travel up by bus — see <a href="/tirupati-to-tirumala/">getting to Tirumala</a>. Or shift your dates to a weekday for far better availability. Or take a <a href="/types-of-tirumala-darshan/">darshan slot</a> and do a same-day return without staying over. For more hill options, see the <a href="/tirumala-stay-options-pilgrims/">Tirumala stay options guide</a>.
 <h2>❌ Common Mistakes — TTD accommodation booking</h2>
 <ul>
  	<li>❌ <strong>Booking the room before the darshan ticket:</strong> In 2026 the room is generally tied to a darshan/seva ticket — sort that first.</li>

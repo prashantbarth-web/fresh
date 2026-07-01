@@ -231,7 +231,7 @@ The biggest benefit of walking up the Alipiri footpath is the <a href="/divya-da
 <ul>
  	<li><strong>Honest answer:</strong> not recommended unless regularly active and fit</li>
  	<li><strong>Risks:</strong> knee pain, breathlessness, dehydration, cardiac stress</li>
- 	<li><strong>Alternative:</strong> the comfortable, safe <a href="/tirupati-se-tirumala-kaise-jayen/">bus/taxi to Tirumala</a></li>
+ 	<li><strong>Alternative:</strong> the comfortable, safe <a href="/tirupati-to-tirumala/">bus/taxi to Tirumala</a></li>
  	<li><strong>If they insist:</strong> a doctor consultation first, knee caps, a walking stick, allow 7+ hours and frequent breaks</li>
 </ul>
 <h3>Children (5–14)</h3>
@@ -244,7 +244,7 @@ The biggest benefit of walking up the Alipiri footpath is the <a href="/divya-da
 <h2>After the trek — what to do on reaching Tirumala</h2>
 <ul>
  	<li><strong>Step 1:</strong> go to the Divya Darshan token counter immediately — don't delay</li>
- 	<li><strong>Step 2:</strong> use the rest/wash area, freshen up and change into traditional clothes per the <a href="/tirumala-dress-code-rules/">dress code</a></li>
+ 	<li><strong>Step 2:</strong> use the rest/wash area, freshen up and change into traditional clothes per the <a href="/tirumala-dress-code-rules-2026-2026/">dress code</a></li>
  	<li><strong>Step 3:</strong> have <a href="/tirumala-annadanam-guide/">Annadanam</a> (free food) if hungry — recover your energy</li>
  	<li><strong>Step 4:</strong> join the Divya Darshan queue as per your token time</li>
  	<li><strong>Step 5:</strong> after darshan, collect your <a href="/tirumala-laddu-prasad-guide/">laddu prasadam</a></li>
@@ -273,10 +273,10 @@ The biggest benefit of walking up the Alipiri footpath is the <a href="/divya-da
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala — bus, taxi and footpath options</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">Tirupati to Tirumala — bus, taxi and footpath options</a></li>
  	<li><a href="/srivari-mettu-footpath-guide/">Srivari Mettu footpath — the shorter walking route</a></li>
  	<li><a href="/divya-darshan-free-token-guide/">Divya Darshan free token — the walker's priority darshan</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala darshan 2026 — full breakdown</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala darshan 2026 — full breakdown</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati packing list — what not to forget</a></li>
 </ul>
 <h2>Frequently Asked Questions — Alipiri Footpath Trek</h2>

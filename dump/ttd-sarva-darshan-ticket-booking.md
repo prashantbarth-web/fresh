@@ -22,7 +22,7 @@ A note from experience: I've done the free darshan more than once, and the diffe
 <h2>What is Sarva Darshan (SSD)?</h2>
 Sarva Darshan is the free darshan open to every pilgrim — no special quota, no darshan fee. In 2026 it's organised as SSD (Slotted Sarva Darshan): you get a free time-slot token, then go through the Vaikuntam Queue Complex (VQC) for darshan. The token controls the crowd so people enter in batches rather than one endless line.
 
-"Free" doesn't mean "just walk in," though — without the token you're pushed to the slowest non-token line. To see how it sits among all options, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>, and for the token types, the <a href="/tirumala-darshan-token-system/">token system guide</a>.\
+"Free" doesn't mean "just walk in," though — without the token you're pushed to the slowest non-token line. To see how it sits among all options, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>, and for the token types, the <a href="/tirumala-darshan-token-system-2026-epass-vs-physical-token-vs-online-slot-2026-epass-vs-physical-token-vs-online-slot/">token system guide</a>.\
 
 [caption id="attachment_192" align="alignnone" width="1024"]<img class="wp-image-192 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/05/tirumala-darshan-required-documents-checklist-1024x683.webp" alt="Documents required for TTD Sarva Darshan — Aadhaar, ID proof, ticket checklist" width="1024" height="683" /> Documents checklist graphic[/caption]
 <h2>💡 Gap: free darshan is mainly an offline token — not a "book online 21 days ahead"</h2>
@@ -97,11 +97,11 @@ If a free online slot is available on the official portal for your date, you can
 </tr>
 </tbody>
 </table>
-<strong>Straight talk:</strong> if you want free darshan, plan to collect the SSD token at a Tirupati counter early. If you need certainty or have limited time, the paid <a href="/ttd-special-entry-darshan-online-booking/">Special Entry Darshan</a> is the reliable online fast-track. The full hours picture is in the <a href="/tirumala-darshan-waiting-time/">waiting time guide</a>.
+<strong>Straight talk:</strong> if you want free darshan, plan to collect the SSD token at a Tirupati counter early. If you need certainty or have limited time, the paid <a href="/ttd-special-entry-darshan-online-booking/">Special Entry Darshan</a> is the reliable online fast-track. The full hours picture is in the <a href="/tirumala-darshan-waiting-time-2026-2026/">waiting time guide</a>.
 <h2>💡 Gap: token vs non-token wait</h2>
 The biggest free-darshan variable you control is whether you have a token. With an SSD token the wait is more organised — commonly 8–12 hours. Without one, the non-token queue can stretch to 24 hours on busy days (the official daily report lists this separately). So getting the token early in Tirupati isn't a formality — it can save you ten-plus hours.
 
-💡 <strong>Insider Tip:</strong> Inside the VQC you sit on the floor in halls for hours — carry a thin sheet, water and snacks. Free Annadanam meals are served during the wait. The layout is in the <a href="/vqc-vaikuntam-queue-complex-guide/">VQC guide</a>.
+💡 <strong>Insider Tip:</strong> Inside the VQC you sit on the floor in halls for hours — carry a thin sheet, water and snacks. Free Annadanam meals are served during the wait. The layout is in the <a href="/vaikuntam-queue-complex-vqc-guide/">VQC guide</a>.
 <h2>Documents you need</h2>
 <ul>
  	<li>✅ Original Aadhaar for every member (mandatory at the counter and gate)</li>
@@ -112,7 +112,7 @@ The biggest free-darshan variable you control is whether you have a token. With 
 </ul>
 Names must match your ID exactly. Pack everything using the <a href="/tirupati-packing-list/">Tirupati packing list</a>.
 <h2>Who should use free darshan vs paid</h2>
-Choose free Sarva Darshan if you have flexible days, you're on a tight budget, or you're travelling in low season/on a weekday. Choose the paid route if you're with elders or small children, have only a day, or are going in peak season — and for seniors specifically, use the dedicated <a href="/senior-citizen-tirumala-darshan/">senior citizen darshan</a>. Fit pilgrims can also walk up for <a href="/divya-darshan-free-token-guide/">Divya Darshan</a>, which often moves faster than the general free queue. Pick low-crowd dates with the <a href="/tirumala-darshan-best-time/">best time guide</a>.
+Choose free Sarva Darshan if you have flexible days, you're on a tight budget, or you're travelling in low season/on a weekday. Choose the paid route if you're with elders or small children, have only a day, or are going in peak season — and for seniors specifically, use the dedicated <a href="/senior-citizens-special-facities/">senior citizen darshan</a>. Fit pilgrims can also walk up for <a href="/divya-darshan-free-token-guide/">Divya Darshan</a>, which often moves faster than the general free queue. Pick low-crowd dates with the <a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">best time guide</a>.
 <h2>❌ Common Mistakes — Sarva Darshan booking</h2>
 <ul>
  	<li>❌ <strong>Assuming you can reliably book free darshan online 21 days ahead:</strong> The free token is mainly an offline counter token. Plan to collect it in Tirupati.</li>
@@ -121,15 +121,15 @@ Choose free Sarva Darshan if you have flexible days, you're on a tight budget, o
  	<li>❌ <strong>Forgetting original Aadhaar:</strong> It's mandatory for every member; tokens are biometric and non-transferable.</li>
  	<li>❌ <strong>Booking on a lookalike site:</strong> Only the official TTD portal is genuine — fake "TTD booking" sites are a common scam.</li>
  	<li>❌ <strong>Putting kids/elders in the long free queue:</strong> Consider the senior darshan or ₹300 instead.</li>
- 	<li>❌ <strong>Ignoring the dress code:</strong> It applies to free darshan too — read the <a href="/tirumala-dress-code-rules/">dress code rules</a>.</li>
+ 	<li>❌ <strong>Ignoring the dress code:</strong> It applies to free darshan too — read the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a>.</li>
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirumala-darshan-token-system/">Tirumala Token System — ePass vs Physical Token</a></li>
- 	<li><a href="/tirumala-darshan-waiting-time/">Tirumala Darshan Waiting Time — Honest Guide</a></li>
+ 	<li><a href="/tirumala-darshan-token-system-2026-epass-vs-physical-token-vs-online-slot-2026-epass-vs-physical-token-vs-online-slot/">Tirumala Token System — ePass vs Physical Token</a></li>
+ 	<li><a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala Darshan Waiting Time — Honest Guide</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan ₹300 Booking — Step by Step</a></li>
- 	<li><a href="/vqc-vaikuntam-queue-complex-guide/">Vaikuntam Queue Complex (VQC) Guide</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
+ 	<li><a href="/vaikuntam-queue-complex-vqc-guide/">Vaikuntam Queue Complex (VQC) Guide</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
 </ul>
 <h2>Frequently Asked Questions — TTD Sarva Darshan Booking</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="Can I book Sarva Darshan online?" answer-0="Reliable online booking in 2026 is mainly for the paid route (₹300/VIP). For free Sarva Darshan, the SSD token is primarily issued offline at Tirupati counters, first-come-first-served, often for next-day darshan. A free online slot may sometimes be available on the official portal, but don't depend on it — plan to collect the token at a counter." count="1" html="true"]

@@ -75,7 +75,7 @@ What this means for you:
  	<li>Popular dates — weekends and festivals — are first-come and can vanish within about 5 minutes.</li>
  	<li>Weekday and off-season dates stay available longer.</li>
 </ul>
-⚠️ <strong>Important:</strong> Set a reminder for your month's release date and be logged in just before the release time. The exact schedule shifts, so confirm it on <a href="https://www.tirumala.org/" rel="nofollow">tirumala.org</a>. To choose low-crowd dates, use the <a href="/tirumala-darshan-best-time/">best time guide</a> and the <a href="/ttd-calendar-2026/">TTD 2026 calendar</a>.
+⚠️ <strong>Important:</strong> Set a reminder for your month's release date and be logged in just before the release time. The exact schedule shifts, so confirm it on <a href="https://www.tirumala.org/" rel="nofollow">tirumala.org</a>. To choose low-crowd dates, use the <a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">best time guide</a> and the <a href="/ttd-calendar-2026/">TTD 2026 calendar</a>.
 <h2>💡 Gap: checking live availability &amp; cancellation slots</h2>
 Beyond the booking calendar, there are two underused ways to stay ahead:
 <ul>
@@ -84,7 +84,7 @@ Beyond the booking calendar, there are two underused ways to stay ahead:
 </ul>
 There's no official alert system for cancellations, so it's manual — but persistent checking genuinely works.
 <h2>Sarva Darshan dates — how to check</h2>
-Free Sarva Darshan doesn't have an advance-date calendar like the paid darshan — it runs on the SSD token system. You collect a free token at Tirupati counters (often for next-day darshan), so there's no months-ahead booking to "check." The process is in the <a href="/ttd-sarva-darshan-booking/">Sarva Darshan booking guide</a>, and token types in the <a href="/tirumala-darshan-token-system/">token system guide</a>.
+Free Sarva Darshan doesn't have an advance-date calendar like the paid darshan — it runs on the SSD token system. You collect a free token at Tirupati counters (often for next-day darshan), so there's no months-ahead booking to "check." The process is in the <a href="/ttd-sarva-darshan-ticket-booking/">Sarva Darshan booking guide</a>, and token types in the <a href="/tirumala-darshan-token-system-2026-epass-vs-physical-token-vs-online-slot-2026-epass-vs-physical-token-vs-online-slot/">token system guide</a>.
 <h2>Important release periods to plan around</h2>
 <table>
 <tbody>
@@ -134,10 +134,10 @@ Free Sarva Darshan doesn't have an advance-date calendar like the paid darshan �
 <h2>📚 Also read</h2>
 <ul>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan ₹300 Booking — Step by Step</a></li>
- 	<li><a href="/ttd-sarva-darshan-booking/">Sarva Darshan Booking — Free Token Guide</a></li>
- 	<li><a href="/tirumala-darshan-best-time/">Best Time for Tirumala Darshan — Month by Month</a></li>
+ 	<li><a href="/ttd-sarva-darshan-ticket-booking/">Sarva Darshan Booking — Free Token Guide</a></li>
+ 	<li><a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">Best Time for Tirumala Darshan — Month by Month</a></li>
  	<li><a href="/ttd-booking-site-crash-tips/">TTD Booking Site Crashing? 5 Fixes</a></li>
- 	<li><a href="/special-entry-darshan-300-kya-hai/">What is ₹300 Special Entry Darshan</a></li>
+ 	<li><a href="/what-is-special-entry-darshan-rs300/">What is ₹300 Special Entry Darshan</a></li>
 </ul>
 <h2>Frequently Asked Questions — TTD Darshan Dates</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="How do I check TTD darshan dates online?" answer-0="Go to the official portal (ttdevasthanams.ap.gov.in) or the TTD Govinda App, open Special Entry Darshan, and log in. The calendar shows available dates in green/active; grey dates are either fully booked or not yet released. Click a green date to see and book the time slots." count="1" html="true"]

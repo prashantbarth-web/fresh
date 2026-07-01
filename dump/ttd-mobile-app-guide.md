@@ -66,7 +66,7 @@ On first launch you get a language choice — Hindi/English/Telugu.
  	<li>Payment: UPI / card / net banking</li>
  	<li>On success, the ePass is generated automatically and appears under "My Bookings"</li>
 </ul>
-It's the same process as the website — the app interface is just cleaner, and <a href="/ttd-darshan-dates-kaise-check-karen/">checking available dates</a> is faster.
+It's the same process as the website — the app interface is just cleaner, and <a href="/how-to-check-ttd-darshan-availability/">checking available dates</a> is faster.
 
 ⚠️ <strong>Important:</strong> On release day, when new slots open, the app gets very slow (so does the website). Crashes from server load are common — be patient and keep retrying.
 <h3>Seva booking</h3>
@@ -139,7 +139,7 @@ Keep <strong>auto-update ON</strong>, or check manually a week before travel:
 <ul>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD SED ₹300 online booking — step-by-step 2026</a></li>
  	<li><a href="/ttd-epass-kya-hai/">TTD ePass — what it is and how to use it</a></li>
- 	<li><a href="/ttd-darshan-dates-kaise-check-karen/">How to check available TTD darshan dates</a></li>
+ 	<li><a href="/how-to-check-ttd-darshan-availability/">How to check available TTD darshan dates</a></li>
  	<li><a href="/ttd-ticket-cancel-2026-refund/">TTD ticket cancellation and refund guide</a></li>
 </ul>
 <h2>Frequently Asked Questions — TTD Mobile App</h2>

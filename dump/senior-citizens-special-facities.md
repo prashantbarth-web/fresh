@@ -75,7 +75,7 @@ In 2026 there are effectively two ways to use the senior-citizen darshan, and kn
 </table>
 ⚠️ <strong>Important:</strong> Carry original Aadhaar with a visible date of birth as age proof. One attendant (a family member) is generally allowed with the senior — confirm at the counter.
 <h2>₹300 Special Entry Darshan — the comfortable backup</h2>
-If the senior token isn't available for your date, the ₹300 Special Entry Darshan is the most reliable comfortable option. You book online in advance, get a fixed time slot, and the wait is usually 2–4 hours at a manageable pace — far gentler than the free queue for an elderly person. Reach the counter about 2 hours before your slot. The booking steps are in the <a href="/ttd-special-entry-darshan-online-booking/">SED booking guide</a>, and how it fits among all options is in <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+If the senior token isn't available for your date, the ₹300 Special Entry Darshan is the most reliable comfortable option. You book online in advance, get a fixed time slot, and the wait is usually 2–4 hours at a manageable pace — far gentler than the free queue for an elderly person. Reach the counter about 2 hours before your slot. The booking steps are in the <a href="/ttd-special-entry-darshan-online-booking/">SED booking guide</a>, and how it fits among all options is in <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 
 💡 <strong>Insider Tip:</strong> Children or grandchildren can book the ₹300 ticket online from home — the senior doesn't have to deal with the portal at all. Pair it with a wheelchair request and the day becomes genuinely easy.
 <h2>Wheelchair &amp; mobility assistance</h2>
@@ -90,15 +90,15 @@ TTD provides free wheelchairs at the VQC and temple premises. Request one at the
 <ul>
  	<li><strong>Book an AC train berth:</strong> A Delhi–Tirupati trip is 24–28 hours; 3AC/2AC is far kinder on elders.</li>
  	<li><strong>Reach Tirupati a night early:</strong> Don't take them into a queue exhausted from travel.</li>
- 	<li><strong>Stay close to the temple area</strong> to cut down on extra movement — see <a href="/tirupati-se-tirumala-kaise-jayen/">getting to Tirumala</a>.</li>
- 	<li><strong>Go in February or July–August, on a Monday/Tuesday</strong> for the lightest crowds — the <a href="/tirumala-darshan-best-time/">best time guide</a> helps.</li>
+ 	<li><strong>Stay close to the temple area</strong> to cut down on extra movement — see <a href="/tirupati-to-tirumala/">getting to Tirumala</a>.</li>
+ 	<li><strong>Go in February or July–August, on a Monday/Tuesday</strong> for the lightest crowds — the <a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">best time guide</a> helps.</li>
  	<li><strong>Carry all regular medicines</strong> (BP, heart, diabetes), plus the <a href="/tirupati-packing-list/">packing list</a> essentials and a warm layer for the cool hill.</li>
- 	<li><strong>Dress them per the code</strong> in advance — see the <a href="/tirumala-dress-code-rules/">dress code rules</a>.</li>
+ 	<li><strong>Dress them per the code</strong> in advance — see the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a>.</li>
 </ul>
-For a broader plan, the <a href="/tirupati-senior-citizen-travel-guide/">senior citizen travel guide</a> covers the whole journey.
+For a broader plan, the <a href="/senior-citizens-special-facities/">senior citizen travel guide</a> covers the whole journey.
 <h2>What to avoid with senior citizens</h2>
 <ul>
- 	<li>❌ <strong>Free Sarva Darshan:</strong> A 12–24 hour queue is a real health risk for 65+. Use the senior facility or ₹300 darshan instead — see the <a href="/tirumala-darshan-waiting-time/">waiting time guide</a>.</li>
+ 	<li>❌ <strong>Free Sarva Darshan:</strong> A 12–24 hour queue is a real health risk for 65+. Use the senior facility or ₹300 darshan instead — see the <a href="/tirumala-darshan-waiting-time-2026-2026/">waiting time guide</a>.</li>
  	<li>❌ <strong>Saturdays and festivals:</strong> Brahmotsavam and Vaikunta Ekadasi are extremely demanding — avoid them with elders.</li>
  	<li>❌ <strong>May–June heat:</strong> 38–42°C in the plains raises heat-exhaustion risk in any queue.</li>
  	<li>❌ <strong>The Alipiri footpath:</strong> Not advisable for 65+ — go up by bus or cab.</li>
@@ -115,10 +115,10 @@ For a broader plan, the <a href="/tirupati-senior-citizen-travel-guide/">senior 
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan Booking — Step by Step</a></li>
- 	<li><a href="/tirumala-darshan-best-time/">Best Time for Tirumala Darshan — Month by Month</a></li>
- 	<li><a href="/tirupati-senior-citizen-travel-guide/">Tirupati Senior Citizen Travel Guide</a></li>
+ 	<li><a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">Best Time for Tirumala Darshan — Month by Month</a></li>
+ 	<li><a href="/senior-citizens-special-facities/">Tirupati Senior Citizen Travel Guide</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati Yatra Packing List — Essentials for Elders</a></li>
 </ul>
 <h2>Frequently Asked Questions — Senior Citizen Darshan</h2>

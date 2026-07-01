@@ -130,7 +130,7 @@ This is for those coming from a nearby city (Chennai, Hyderabad, Bengaluru) on a
 
 🕓 <strong>4:00 AM — Reach Tirupati.</strong> By early-morning bus or overnight train. Head straight from the station to the bus stand.
 
-🕓 <strong>4:30 AM — Tirupati Central Bus Stand.</strong> Take the bus to Tirumala (free TTD bus or paid APSRTC, ~₹50–70). Early-morning buses are less crowded. See the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala bus options and timing guide</a>.
+🕓 <strong>4:30 AM — Tirupati Central Bus Stand.</strong> Take the bus to Tirumala (free TTD bus or paid APSRTC, ~₹50–70). Early-morning buses are less crowded. See the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala bus options and timing guide</a>.
 
 🕔 <strong>5:15 AM — Reach Tirumala.</strong> The ghat road takes about 45 minutes. On arrival, head to your SED reporting point.
 
@@ -138,7 +138,7 @@ This is for those coming from a nearby city (Chennai, Hyderabad, Bengaluru) on a
 
 🕕 <strong>6:00–9:00 AM — Darshan.</strong> Enter the SED queue. Off-season wait is roughly 2–3 hours.
 
-💡 <strong>Insider Tip:</strong> In the <a href="/vqc-vaikuntam-queue-complex-guide/">VQC waiting area</a>, close your eyes and rest — the crowd is mentally draining, and you want your focus for when you near the garbhagriha.
+💡 <strong>Insider Tip:</strong> In the <a href="/vaikuntam-queue-complex-vqc-guide/">VQC waiting area</a>, close your eyes and rest — the crowd is mentally draining, and you want your focus for when you near the garbhagriha.
 
 🕘 <strong>9:00 AM — Laddu counter.</strong> Straight after the darshan exit. Every pilgrim generally gets one free laddu, and you can buy up to 2 extra per person. See the <a href="/tirumala-laddu-prasad-guide/">laddu types and limits</a>.
 
@@ -207,7 +207,7 @@ From North India, a one-day darshan is possible only by flight — not by train.
 <h2>Can you do it on free Sarva Darshan?</h2>
 Short answer: <strong>no — far too risky.</strong>
 
-The <a href="/tirumala-darshan-waiting-time/">Sarva Darshan wait time</a> ranges from 6 to 20+ hours, and even off-season weekdays are 6–8 hours minimum. It now runs on the Slotted Sarva Darshan (SSD) token system, with tokens collected at Tirupati counters — often for the next day. That alone breaks a same-day plan.
+The <a href="/tirumala-darshan-waiting-time-2026-2026/">Sarva Darshan wait time</a> ranges from 6 to 20+ hours, and even off-season weekdays are 6–8 hours minimum. It now runs on the Slotted Sarva Darshan (SSD) token system, with tokens collected at Tirupati counters — often for the next day. That alone breaks a same-day plan.
 
 <strong>A one-day plan needs a ₹300 SED ticket. There is no shortcut.</strong>
 <h2>💡 Gap — SED is online-only (no walk-in)</h2>
@@ -223,7 +223,7 @@ Book it the moment the month's quota opens, for an early morning slot. The full 
 
 ✅ <strong>Book your return in advance:</strong> hunting for a train or bus while exhausted after darshan is painful. An evening return, pre-booked, is best.
 
-✅ <strong>Sort the dress code at home:</strong> the <a href="/tirumala-dress-code-rules/">Tirumala dress code</a> is checked at reporting. Wrong dress means being turned back — and that completely wrecks a one-day plan.
+✅ <strong>Sort the dress code at home:</strong> the <a href="/tirumala-dress-code-rules-2026-2026/">Tirumala dress code</a> is checked at reporting. Wrong dress means being turned back — and that completely wrecks a one-day plan.
 <h2>❌ Common mistakes</h2>
 <ul>
  	<li>❌ <strong>Expecting a same-day SED ticket:</strong> SED is online-only and sells out fast — there is no reliable walk-in. Book in advance.</li>
@@ -237,8 +237,8 @@ Book it the moment the month's quota opens, for an early morning slot. The full 
 <ul>
  	<li><a href="/tirupati-2-day-itinerary/">Tirupati 2-day itinerary — the more relaxed plan</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan — step-by-step booking</a></li>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala — every way to reach the hill</a></li>
- 	<li><a href="/tirumala-darshan-waiting-time/">Tirumala darshan waiting time — what to expect</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">Tirupati to Tirumala — every way to reach the hill</a></li>
+ 	<li><a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala darshan waiting time — what to expect</a></li>
  	<li><a href="/tirumala-laddu-prasad-guide/">Tirumala laddu prasad — price, types and limits</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tirupati 1 Day Darshan</h2>

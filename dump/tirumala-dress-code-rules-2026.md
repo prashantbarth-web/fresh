@@ -135,7 +135,7 @@ Don't panic. There are changing rooms near the Vaikuntam Queue Complex and the m
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati Yatra Packing List — Don't Forget These</a></li>
  	<li><a href="/tirumala-mobile-locker-guide/">Tirumala Mobile &amp; Locker Guide</a></li>
  	<li><a href="/tirupati-dos-donts-rules/">Tirupati Dos &amp; Don'ts — Rules Every Pilgrim Should Know</a></li>

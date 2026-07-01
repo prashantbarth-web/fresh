@@ -109,7 +109,7 @@ Up on the hill, almost all stays are TTD-run cottages and guest houses, booked i
 
 So the honest version: if you belong to one of those communities, a hill-top choultry may be an option; for everyone else, the realistic plan is a TTD room on the hill, or staying in Tirupati town and going up early. Details on the hill options are in the <a href="/tirumala-stay-options-pilgrims/">Tirumala stay options guide</a> and the <a href="/ttd-tirumala-cottages-booking/">Tirumala cottages booking guide</a>.
 <h2>How to reach these dharamshalas</h2>
-Almost all the major dharamshalas are in Tirupati town, not up on Tirumala. From the railway station, most are within 2–4 km — an auto-rickshaw costs around ₹50–₹80. Tell the driver "UP Rest House" or "Bihar Bhavan" and they'll usually know it. The <a href="/tirupati-local-transport-guide/">Tirupati local transport guide</a> has full auto and cab rates. Once in town, you'll <a href="/tirupati-se-tirumala-kaise-jayen/">travel up to Tirumala</a> separately for darshan.
+Almost all the major dharamshalas are in Tirupati town, not up on Tirumala. From the railway station, most are within 2–4 km — an auto-rickshaw costs around ₹50–₹80. Tell the driver "UP Rest House" or "Bihar Bhavan" and they'll usually know it. The <a href="/tirupati-local-transport-guide/">Tirupati local transport guide</a> has full auto and cab rates. Once in town, you'll <a href="/tirupati-to-tirumala/">travel up to Tirumala</a> separately for darshan.
 <h2>Peak-season dharamshala strategy</h2>
 During Brahmotsavam, Vaikunta Ekadasi and summer holidays, pilgrim numbers run into lakhs and every budget option fills fast. What actually works:
 <ul>
@@ -133,7 +133,7 @@ During Brahmotsavam, Vaikunta Ekadasi and summer holidays, pilgrim numbers run i
  	<li><a href="/tirupati-budget-hotels-1000/">Tirupati Budget Hotels Under ₹1000 — Honest Guide</a></li>
  	<li><a href="/ttd-accommodation-online-booking/">TTD Guest House Online Booking — Step by Step</a></li>
  	<li><a href="/tirumala-stay-options-pilgrims/">Tirumala Stay Options for Pilgrims — Complete List</a></li>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala — Bus, Taxi &amp; Footpath Options</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">Tirupati to Tirumala — Bus, Taxi &amp; Footpath Options</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati Yatra Packing List — Don't Forget These</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tirupati Dharamshala</h2>

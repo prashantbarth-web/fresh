@@ -109,7 +109,7 @@ TTD follows a monthly pattern:
  	<li>The exact date/time is announced on the official TTD handle and website 1–2 days ahead</li>
  	<li>Surprise releases happen too (cancelled slots reopening)</li>
 </ul>
-Follow the official TTD announcements — the complete process is in the <a href="/ttd-darshan-dates-kaise-check-karen/">how to check TTD darshan dates guide</a>.
+Follow the official TTD announcements — the complete process is in the <a href="/how-to-check-ttd-darshan-availability/">how to check TTD darshan dates guide</a>.
 <h2>💡 Gap — payment failed: emergency protocol</h2>
 The most frustrating situation: the site loaded, you selected the date, filled the details, reached the payment page... and the payment failed. Now what?
 <ul>
@@ -136,7 +136,7 @@ But demand keeps rising each year too (social-media awareness plus growing North
  	<li>❌ <strong>Continuous rapid refresh (F5 spam):</strong> it loads the server further and can get your IP temporarily blocked. Keep a 15–20 second gap.</li>
  	<li>❌ <strong>Giving up the moment it crashes:</strong> deciding "it won't happen today" is the biggest mistake. Slots stay available for 2–3 hours — retry after 15 minutes and the site will be stabler.</li>
  	<li>❌ <strong>Relying on card payment during a crash:</strong> bank gateway + TTD gateway = a double failure point. Use UPI (GPay, PhonePe, Paytm) for a faster, more reliable completion.</li>
- 	<li>❌ <strong>Not tracking the release date/time:</strong> if you don't know when dates open, how can you be ready? Follow the official TTD handle, or learn the <a href="/ttd-darshan-dates-kaise-check-karen/">date-checking process</a>.</li>
+ 	<li>❌ <strong>Not tracking the release date/time:</strong> if you don't know when dates open, how can you be ready? Follow the official TTD handle, or learn the <a href="/how-to-check-ttd-darshan-availability/">date-checking process</a>.</li>
  	<li>❌ <strong>Booking over public WiFi:</strong> a shared network is slow and insecure. Dedicated mobile data is better at crash time — faster response, no bandwidth sharing.</li>
 </ul>
 <h2>📚 Also read</h2>
@@ -144,7 +144,7 @@ But demand keeps rising each year too (social-media awareness plus growing North
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD SED ₹300 online booking — step-by-step 2026</a></li>
  	<li><a href="/ttd-mobile-app-guide/">TTD mobile app — download, setup and booking</a></li>
  	<li><a href="/ttd-epass-kya-hai/">TTD ePass — what it is and how to use it</a></li>
- 	<li><a href="/ttd-darshan-dates-kaise-check-karen/">How to check available TTD darshan dates online</a></li>
+ 	<li><a href="/how-to-check-ttd-darshan-availability/">How to check available TTD darshan dates online</a></li>
 </ul>
 <h2>Frequently Asked Questions — TTD Booking Site Crash</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="When does the TTD booking site crash?" answer-0="Mainly when new darshan dates release — usually at the start of each month, around 10 AM. With 5–8 lakh users accessing simultaneously, the server overloads. Peak crash time lasts about 15–20 minutes." count="1" html="true"]

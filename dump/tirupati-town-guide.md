@@ -70,11 +70,11 @@ Tirupati has its own railway station (TPTY). Direct trains from major cities:
 </tr>
 </tbody>
 </table>
-See the detailed <a href="/delhi-se-tirupati-kaise-jayen/">Delhi to Tirupati trains guide</a>.
+See the detailed <a href="/delhi-se-tirupati/">Delhi to Tirupati trains guide</a>.
 <h3>By flight</h3>
 Tirupati has its own airport (TIR), about 15 km from town. IndiGo and Air India operate from Chennai, Hyderabad, Mumbai and Delhi. See the <a href="/tirupati-airport-guide/">airport to town and Tirumala guide</a>.
 <h3>By bus</h3>
-APSRTC and private buses run from major cities in Andhra Pradesh, Tamil Nadu and Karnataka. See the <a href="/hyderabad-se-tirupati-kaise-jayen/">Hyderabad to Tirupati guide</a>.
+APSRTC and private buses run from major cities in Andhra Pradesh, Tamil Nadu and Karnataka. See the <a href="/hyderabad-to-tirupati/">Hyderabad to Tirupati guide</a>.
 <h2>Local transport — getting around town</h2>
 <h3>Auto-rickshaw</h3>
 The most common transport in Tirupati.
@@ -116,7 +116,7 @@ The most common transport in Tirupati.
 <h3>City bus (APSRTC)</h3>
 For within-town and nearby places — fare ₹10–₹25. The Tiruchanur bus (₹15–₹20) and Alipiri bus (₹10–₹15) leave from the Central Bus Stand. Best for budget travellers, but check the timing and route first.
 <h3>The Tirumala bus — from the Central Bus Stand</h3>
-APSRTC buses to Tirumala leave from the Central Bus Stand — ticket ₹65–₹70, every 10–15 minutes at peak, journey 45–60 minutes. See all the options in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala guide</a>.
+APSRTC buses to Tirumala leave from the Central Bus Stand — ticket ₹65–₹70, every 10–15 minutes at peak, journey 45–60 minutes. See all the options in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala guide</a>.
 <h3>Ola / Uber</h3>
 Available in Tirupati — station to bus stand ₹80–₹120, anywhere in town ₹80–₹200, airport ₹350–₹500.
 
@@ -239,7 +239,7 @@ For TTD-related queries, use the official contact channels listed on <a href="ht
  	<li><a href="/tirupati-2-day-itinerary/">Tirupati 2-day itinerary — complete plan</a></li>
  	<li><a href="/tirupati-budget-hotels-1000/">Tirupati hotels under ₹1,000</a></li>
  	<li><a href="/tirupati-dharamshala-guide/">Tirupati dharamshala guide — free and low-cost stay</a></li>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">How to reach Tirumala from Tirupati</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">How to reach Tirumala from Tirupati</a></li>
  	<li><a href="/tiruchanur-padmavathi-temple-guide/">Tiruchanur Padmavathi temple guide</a></li>
  	<li><a href="/tirumala-laddu-prasad-guide/">Tirumala laddu — how to spot the authentic one</a></li>
 </ul>

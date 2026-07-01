@@ -79,7 +79,7 @@ From the Tirupati Railway Station or town. Fare ₹60–₹100 one way, journey 
 <h3>Option 2: APSRTC bus</h3>
 Buses on the Alipiri route from the Central Bus Stand pass by — get off at the Kapila Theertham stop. Ticket ₹10–₹15, journey 15–20 minutes depending on traffic.
 <h3>Option 3: Walking (from Alipiri)</h3>
-If you are climbing up to Tirumala on foot via the <a href="/tirupati-se-tirumala-kaise-jayen/">Alipiri footpath</a>, Kapila Theertham is right on the way. Pilgrims traditionally take darshan here first, then begin the climb.
+If you are climbing up to Tirumala on foot via the <a href="/tirupati-to-tirumala/">Alipiri footpath</a>, Kapila Theertham is right on the way. Pilgrims traditionally take darshan here first, then begin the climb.
 
 💡 <strong>Insider Tip:</strong> For pilgrims walking up from Alipiri, Kapila Theertham is the perfect "starting-point blessing" — darshan here first, then begin the roughly 7.8 km climb. It is the traditional sequence.
 <h3>Option 4: Ola/Uber</h3>

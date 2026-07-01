@@ -57,7 +57,7 @@ This article covers how to book Sahasra Deepalankara Seva, the cost, the timing,
 <h2>💡 Gap — the seva-calendar-first rule</h2>
 This is the single biggest planning mistake to avoid. Sahasra Deepalankara is <strong>not a daily seva</strong> — it runs only on specific scheduled days. So:
 <ul>
- 	<li>First, check the "Seva Calendar" on the <a href="/ttd-darshan-dates-kaise-check-karen/">TTD website</a> for the dates this seva is scheduled.</li>
+ 	<li>First, check the "Seva Calendar" on the <a href="/how-to-check-ttd-darshan-availability/">TTD website</a> for the dates this seva is scheduled.</li>
  	<li>Then plan your travel around those dates.</li>
  	<li>Do it in reverse — fix travel first — and you'll likely hit "seva not available on your dates."</li>
 </ul>
@@ -128,7 +128,7 @@ This is the single biggest planning mistake to avoid. Sahasra Deepalankara is <s
 </tr>
 </tbody>
 </table>
-⚠️ <strong>Important:</strong> The <a href="/tirumala-dress-code-rules/">dress code</a> is strictly enforced for all Arjitha Sevas — Sahasra Deepalankara is no exception. If you can tie a dhoti, practise via a tutorial; if not, you can rent/buy one at Tirumala for ₹100–200, and staff will help drape it.
+⚠️ <strong>Important:</strong> The <a href="/tirumala-dress-code-rules-2026-2026/">dress code</a> is strictly enforced for all Arjitha Sevas — Sahasra Deepalankara is no exception. If you can tie a dhoti, practise via a tutorial; if not, you can rent/buy one at Tirumala for ₹100–200, and staff will help drape it.
 <h2>Cost and what's included</h2>
 <ul>
  	<li><strong>Ticket:</strong> ₹300–500 per person (2026, verify on the TTD website)</li>

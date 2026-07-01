@@ -73,7 +73,7 @@ Tirupati connects directly to a handful of Indian cities, mainly on IndiGo, Air 
 </table>
 ⚠️ <strong>Important:</strong> Direct flights aren't always available, especially off-season; frequency rises during peak pilgrimage months (roughly October–March). Always check current routes on Google Flights or an airline site before booking. If Delhi/Mumbai direct isn't available, a connection via Hyderabad is the most reliable.
 
-💡 <strong>Insider Tip:</strong> A flight only makes real sense from far cities like Delhi, Kolkata or Mumbai. From nearby South Indian cities — Chennai (~135 km), Bengaluru (~250 km), Hyderabad (~430 km) — the train, bus or cab is usually better once you add airport time. See the city guides for <a href="/delhi-se-tirupati-kaise-jayen/">Delhi</a>, <a href="/mumbai-se-tirupati-kaise-jayen/">Mumbai</a> and <a href="/hyderabad-se-tirupati-kaise-jayen/">Hyderabad</a>.
+💡 <strong>Insider Tip:</strong> A flight only makes real sense from far cities like Delhi, Kolkata or Mumbai. From nearby South Indian cities — Chennai (~135 km), Bengaluru (~250 km), Hyderabad (~430 km) — the train, bus or cab is usually better once you add airport time. See the city guides for <a href="/delhi-se-tirupati/">Delhi</a>, <a href="/mumbai-to-tirupati/">Mumbai</a> and <a href="/hyderabad-to-tirupati/">Hyderabad</a>.
 <h2>From the airport to Tirupati city</h2>
 The airport (Renigunta) is about 15–20 km from the city centre, roughly a 25–35 minute drive.
 <ul>
@@ -107,7 +107,7 @@ You can take a cab straight from the airport to Tirumala for around ₹1,800–2
 </tr>
 </tbody>
 </table>
-The smart budget route: prepaid taxi or auto from the airport to the Tirupati RTC bus stand (~₹500), then a TTD/APSRTC bus up to Tirumala (~₹50, frequent from early morning). For a family of four splitting a cab, the direct route can make sense; for one or two people, the bus route saves a lot. Full options are in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala guide</a>.
+The smart budget route: prepaid taxi or auto from the airport to the Tirupati RTC bus stand (~₹500), then a TTD/APSRTC bus up to Tirumala (~₹50, frequent from early morning). For a family of four splitting a cab, the direct route can make sense; for one or two people, the bus route saves a lot. Full options are in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala guide</a>.
 
 💡 <strong>Insider Tip:</strong> Recent reports mention free TTD shuttle connections for pilgrims at peak times, alongside regular APSRTC buses. Ask at the airport/RTC stand on arrival — but don't count on a direct airport-to-Tirumala bus; the city-then-TTD-bus route is the dependable one.
 
@@ -128,7 +128,7 @@ This is the point too many pilgrims get wrong. You cannot buy a darshan ticket a
  	<li>If you don't get a paid slot, free Sarva Darshan (SSD token) is always available, but the queue can be long.</li>
  	<li>Carry original Aadhaar for every adult — ID is verified at the counters in 2026.</li>
 </ul>
-The paid Special Entry Darshan rules have been changing, so confirm current options on <a href="https://www.tirumala.org/" rel="nofollow">tirumala.org</a> — the process is in the <a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan booking guide</a>, and all darshan types are explained in <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+The paid Special Entry Darshan rules have been changing, so confirm current options on <a href="https://www.tirumala.org/" rel="nofollow">tirumala.org</a> — the process is in the <a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan booking guide</a>, and all darshan types are explained in <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 <h2>❌ Common Mistakes — Tirupati Airport</h2>
 <ul>
  	<li>❌ <strong>Booking with tout drivers inside:</strong> Avoid unofficial drivers who approach you. Use the prepaid counter for a fixed, fair rate.</li>
@@ -137,14 +137,14 @@ The paid Special Entry Darshan rules have been changing, so confirm current opti
  	<li>❌ <strong>Treating the airport as the city:</strong> Renigunta is ~15–20 km from the city, and Tirumala is ~40 km away. Plan the full leg.</li>
  	<li>❌ <strong>Rushing up the ghat after a late-night landing:</strong> Stay over and climb fresh in the morning.</li>
  	<li>❌ <strong>Overpaying for a direct cab when solo:</strong> The airport → city → TTD bus route is far cheaper for one or two people.</li>
- 	<li>❌ <strong>Ignoring the dress code:</strong> Traditional dress is mandatory at Tirumala. Read the <a href="/tirumala-dress-code-rules/">dress code rules</a> and pack accordingly.</li>
+ 	<li>❌ <strong>Ignoring the dress code:</strong> Traditional dress is mandatory at Tirumala. Read the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a> and pack accordingly.</li>
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala — Bus, Taxi &amp; Footpath Options</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">Tirupati to Tirumala — Bus, Taxi &amp; Footpath Options</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan Booking — Step by Step</a></li>
  	<li><a href="/tirupati-2-day-itinerary/">Tirupati 2-Day Itinerary — Complete Plan</a></li>
- 	<li><a href="/tirumala-darshan-best-time/">Best Time for Tirumala Darshan — Avoid the Crowds</a></li>
+ 	<li><a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">Best Time for Tirumala Darshan — Avoid the Crowds</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati Yatra Packing List — Don't Forget These</a></li>
 </ul>
 <h2>Frequently Asked Questions — Tirupati Airport</h2>

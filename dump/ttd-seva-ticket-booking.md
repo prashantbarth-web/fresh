@@ -22,7 +22,7 @@ A note from experience: I've booked TTD sevas several times, and the people who 
 <h2>What is a seva, and how is it different from darshan?</h2>
 Many assume booking a seva automatically gets you darshan. It doesn't. Darshan means viewing the deity inside the temple; a seva means taking part in a specific ritual as a sponsor — for example, in Kalyanotsavam you and your spouse symbolically play the role of the celebrants in the Lord's divine wedding.
 
-After most sevas you do get a darshan from near the sanctum — but that's a bonus, not the main purpose, and a few sevas don't include it. So treat seva and darshan as two separate bookings. The full menu is in the <a href="/ttd-arjitha-sevas-list/">Arjitha sevas list</a>, and how darshan itself works is in <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+After most sevas you do get a darshan from near the sanctum — but that's a bonus, not the main purpose, and a few sevas don't include it. So treat seva and darshan as two separate bookings. The full menu is in the <a href="/ttd-arjitha-sevas-list/">Arjitha sevas list</a>, and how darshan itself works is in <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 
 [caption id="attachment_194" align="alignnone" width="1024"]<img class="wp-image-194 size-large" src="https://tirumalatirupatiguide.in/wp-content/uploads/2026/05/ttd-seva-ticket-booking-counter-1024x542.webp" alt="Pilgrims at TTD seva booking counter Tirumala temple complex" width="1024" height="542" /> TTD Seva Booking Counter[/caption]
 <h2>💡 Gap: the Electronic DIP (Lucky Dip) — the big 2026 change</h2>
@@ -149,7 +149,7 @@ These are the paid sevas ordinary pilgrims can book. Costs and timings change, s
 </table>
 To weigh paid sevas against the free ones, read <a href="/free-vs-paid-sevas-tirumala/">free vs paid sevas at Tirumala</a>; for abhishekam specifically, see the <a href="/tirumala-abhishekam-seva-guide/">Abhishekam guide</a> and for the lamp seva, <a href="/sahasra-deepalankara-seva/">Sahasra Deepalankara</a>.
 <h2>Dress code &amp; seva day</h2>
-Dress enforcement is stricter for sevas than for regular darshan — men in dhoti with kurta, women in a saree or churidar with dupatta; no jeans, trousers or sleeveless. Reach the counter early, carry original ID for each participant, and keep your confirmation handy. Full rules are in the <a href="/tirumala-dress-code-rules/">dress code guide</a>.
+Dress enforcement is stricter for sevas than for regular darshan — men in dhoti with kurta, women in a saree or churidar with dupatta; no jeans, trousers or sleeveless. Reach the counter early, carry original ID for each participant, and keep your confirmation handy. Full rules are in the <a href="/tirumala-dress-code-rules-2026-2026/">dress code guide</a>.
 <h2>Offline booking, cancellation &amp; brokers</h2>
 A limited offline option exists at TTD counters (popular sevas rarely available; simple ones like Archana sometimes are), but online is the reliable route. Seva tickets are generally non-refundable and rescheduling isn't usually allowed, so confirm your date before booking.
 
@@ -170,7 +170,7 @@ A limited offline option exists at TTD counters (popular sevas rarely available;
  	<li><a href="/kalyanotsavam-seva-guide/">Kalyanotsavam Seva — Booking &amp; Experience</a></li>
  	<li><a href="/suprabhatam-seva-booking/">Suprabhatam Seva — Booking &amp; What to Expect</a></li>
  	<li><a href="/free-vs-paid-sevas-tirumala/">Free vs Paid Sevas at Tirumala</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala Darshan 2026 — Full Guide</a></li>
 </ul>
 <h2>Frequently Asked Questions — TTD Seva Booking</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="Does a seva ticket also include darshan?" answer-0="No — seva and darshan are separate tickets. After many sevas, like Kalyanotsavam, you get a darshan from near the sanctum, but it isn't guaranteed for every seva and shouldn't be your only plan. For a regular darshan you must book it separately, such as the ₹300 Special Entry Darshan." count="1" html="true"]

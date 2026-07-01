@@ -76,7 +76,7 @@ Because TTD keeps adjusting these schedules, always reconfirm the current releas
 <h2>💡 Gap: you generally need a darshan ticket first</h2>
 Here's the rule that trips up many pilgrims in 2026: booking a Tirumala room online is generally linked to holding a darshan or seva ticket. The old "book the room, arrange darshan separately later" approach has largely changed.
 
-So sort your <a href="/ttd-special-entry-darshan-online-booking/">darshan booking</a> first, then book the room against it. And remember — a confirmed room is not a confirmed darshan; they remain two parts of the same trip, and staying on the hill does not by itself shorten the <a href="/tirumala-darshan-waiting-time/">darshan waiting time</a>.
+So sort your <a href="/ttd-special-entry-darshan-online-booking/">darshan booking</a> first, then book the room against it. And remember — a confirmed room is not a confirmed darshan; they remain two parts of the same trip, and staying on the hill does not by itself shorten the <a href="/tirumala-darshan-waiting-time-2026-2026/">darshan waiting time</a>.
 <h2>Step-by-step booking process</h2>
 <ol>
  	<li><strong>Create an account:</strong> On the official TTD online services portal, register with your mobile number and Aadhaar; verify the OTP.</li>
@@ -122,7 +122,7 @@ If online rooms are sold out, there's a legitimate fallback: the <strong>CRO (Ce
 </table>
 Staying up top means easier <a href="/suprabhatam-seva-booking/">Suprabhatam</a> access, no daily bus queue, and more time in Tirumala's calm. But for a quick one-day trip, a <a href="/tirupati-budget-hotels-1000/">budget hotel in town</a> is more practical. For the full menu of hill options, see the <a href="/tirumala-stay-options-pilgrims/">Tirumala stay options guide</a>.
 <h2>Cancellation and refund</h2>
-TTD's accommodation cancellation policy generally works on a sliding scale — a fuller refund the earlier you cancel, reducing as you approach check-in, with little or no refund very close to the date. Refunds process to the original payment method over several working days. Exact slabs can change, so check the current policy at booking; the broader refund process is covered in the <a href="/ttd-darshan-ticket-cancel-refund/">TTD cancellation &amp; refund guide</a>.
+TTD's accommodation cancellation policy generally works on a sliding scale — a fuller refund the earlier you cancel, reducing as you approach check-in, with little or no refund very close to the date. Refunds process to the original payment method over several working days. Exact slabs can change, so check the current policy at booking; the broader refund process is covered in the <a href="/ttd-ticket-cancel-2026-refund/">TTD cancellation &amp; refund guide</a>.
 <h2>❌ Common Mistakes — booking a Tirumala cottage</h2>
 <ul>
  	<li>❌ <strong>Following the old midnight-rolling advice:</strong> The quota now opens on an announced monthly date/time. Watch tirumala.org for it instead.</li>
@@ -139,7 +139,7 @@ TTD's accommodation cancellation policy generally works on a sliding scale — a
  	<li><a href="/tirumala-stay-options-pilgrims/">Tirumala Stay Options for Pilgrims — Complete List</a></li>
  	<li><a href="/tirupati-budget-hotels-1000/">Tirupati Budget Hotels Under ₹1000</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan Booking — Step by Step</a></li>
- 	<li><a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala — Bus, Taxi &amp; Footpath Options</a></li>
+ 	<li><a href="/tirupati-to-tirumala/">Tirupati to Tirumala — Bus, Taxi &amp; Footpath Options</a></li>
 </ul>
 <h2>Frequently Asked Questions — TTD Tirumala Cottages</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="How do I book a TTD room in Tirumala online?" answer-0="Register on the official TTD online services portal with your mobile number and Aadhaar, then book against the monthly accommodation quota when it's released. Rooms are released on an announced date and time (often around 3 PM), so be logged in and ready with pilgrim details and UPI. In 2026 you generally need a darshan/seva ticket to book." count="1" html="true"]

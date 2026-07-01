@@ -196,7 +196,7 @@ Tirumala has a dedicated facility for tonsure — "Kalyana Katta." It is the wor
 <h2>📚 Also read</h2>
 <ul>
  	<li><a href="/ttd-arjitha-sevas-list/">TTD Arjitha Sevas list — timings, cost and booking</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala darshan 2026 — full breakdown</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala darshan 2026 — full breakdown</a></li>
  	<li><a href="/tirupati-packing-list/">Tirupati packing list — what not to forget</a></li>
  	<li><a href="/tirupati-yatra-planning-guide/">Tirupati yatra planning — start here</a></li>
 </ul>

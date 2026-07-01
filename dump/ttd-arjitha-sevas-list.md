@@ -164,7 +164,7 @@ Many pilgrims assume that booking a seva automatically gives them darshan. It do
 
 A seva ticket and a darshan ticket are completely separate. During a seva you enter the temple for that specific ritual and get close access during it — but it does not replace a regular or <a href="/ttd-special-entry-darshan-online-booking/">₹300 Special Entry Darshan</a> ticket for a general visit.
 
-✅ The ideal plan: book your seva and your darshan ticket separately. To understand how all the darshan options fit together, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>. And to weigh up which sevas are worth paying for, see the <a href="/free-vs-paid-sevas-tirumala/">free vs paid sevas comparison</a>.
+✅ The ideal plan: book your seva and your darshan ticket separately. To understand how all the darshan options fit together, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>. And to weigh up which sevas are worth paying for, see the <a href="/free-vs-paid-sevas-tirumala/">free vs paid sevas comparison</a>.
 <h2>How to book — step by step</h2>
 <ol>
  	<li>Go to tirumala.org / the official TTD portal and open the Arjitha Seva / Electronic Dip section.</li>
@@ -189,7 +189,7 @@ For first-timers, a simple recommendation:
  	<li>❌ <strong>Expecting simple first-come booking:</strong> popular sevas now go through the Electronic Dip lottery; plan around the dip dates.</li>
  	<li>❌ <strong>Not knowing your gothram and nakshatra:</strong> several sevas need them — confirm with family elders beforehand, as there is no time to figure it out inside.</li>
  	<li>❌ <strong>Reaching late:</strong> sevas are strictly time-bound; arrive at the reporting point well before the slot, or you lose entry.</li>
- 	<li>❌ <strong>Ignoring the dress code:</strong> traditional attire is mandatory for sevas — dhoti for men, saree or salwar-kameez for women. See the <a href="/tirumala-dress-code-rules/">Tirumala dress code rules</a>.</li>
+ 	<li>❌ <strong>Ignoring the dress code:</strong> traditional attire is mandatory for sevas — dhoti for men, saree or salwar-kameez for women. See the <a href="/tirumala-dress-code-rules-2026-2026/">Tirumala dress code rules</a>.</li>
  	<li>❌ <strong>Carrying a phone in:</strong> phones are not allowed inside — deposit them in the free lockers.</li>
  	<li>❌ <strong>Relying on an old price list:</strong> seva rates change; verify the current cost on tirumala.org.</li>
 </ul>

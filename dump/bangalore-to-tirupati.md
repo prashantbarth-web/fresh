@@ -172,11 +172,11 @@ State and private operators run one-day and overnight packages that bundle trans
 <h2>Is a Bangalore to Tirupati one-day trip possible?</h2>
 Yes — the proximity makes a same-day darshan genuinely doable, but only if your darshan is pre-arranged. Leave Majestic by 5–5:30 AM, reach Tirupati by around 10, get up to Tirumala, finish darshan and prasadam through the afternoon, and catch an evening bus back to reach Bangalore by 10–11 PM.
 
-⚠️ <strong>Important:</strong> A one-day plan only works with a pre-booked darshan slot. The free Sarva Darshan queue can run very long — read the honest <a href="/tirumala-darshan-waiting-time/">Tirumala darshan waiting time guide</a> before assuming same-day return is realistic. If you'd rather not rush, the <a href="/tirupati-2-day-itinerary/">Tirupati 2-day itinerary</a> is far more relaxed.
+⚠️ <strong>Important:</strong> A one-day plan only works with a pre-booked darshan slot. The free Sarva Darshan queue can run very long — read the honest <a href="/tirumala-darshan-waiting-time-2026-2026/">Tirumala darshan waiting time guide</a> before assuming same-day return is realistic. If you'd rather not rush, the <a href="/tirupati-2-day-itinerary/">Tirupati 2-day itinerary</a> is far more relaxed.
 <h2>After reaching Tirupati — how to get to Tirumala</h2>
 From the Tirupati bus stand or railway station, Tirumala is about 22 km up the ghat road. The APSRTC/TTD bus (around ₹50 per person) is the most practical — frequent from the Central Bus Station, with early-morning services, and you get off at Sri Venkateswara Bus Station (SVBS) on the hill. A private cab is ₹800–1,200 one-way.
 
-If you're fit and want the traditional experience, you can climb the Alipiri footpath (free, ~10 km, 3–4 hours), which also gives Divya Darshan priority — see the <a href="/alipiri-footpath-trek-guide/">Alipiri footpath trek guide</a>. Full options are in the <a href="/tirupati-se-tirumala-kaise-jayen/">Tirupati to Tirumala travel guide</a>.
+If you're fit and want the traditional experience, you can climb the Alipiri footpath (free, ~10 km, 3–4 hours), which also gives Divya Darshan priority — see the <a href="/alipiri-footpath-trek-guide/">Alipiri footpath trek guide</a>. Full options are in the <a href="/tirupati-to-tirumala/">Tirupati to Tirumala travel guide</a>.
 <h2>Book your darshan before leaving Bangalore</h2>
 Whether you DIY or take a package, sort the darshan question the same day your travel is confirmed.
 <ul>
@@ -184,7 +184,7 @@ Whether you DIY or take a package, sort the darshan question the same day your t
  	<li>Free Sarva Darshan (SSD token) is always available, but the queue can be long — not ideal for a one-day trip.</li>
  	<li>Carry original Aadhaar for every adult — ID is checked at the counters in 2026.</li>
 </ul>
-The paid Special Entry Darshan rules have been changing, so confirm current options on the official site — the step-by-step is in the <a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan booking guide</a>. To understand all darshan types first, read <a href="/tirumala-darshan-ke-prakar/">types of Tirumala darshan</a>.
+The paid Special Entry Darshan rules have been changing, so confirm current options on the official site — the step-by-step is in the <a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan booking guide</a>. To understand all darshan types first, read <a href="/types-of-tirumala-darshan/">types of Tirumala darshan</a>.
 <h2>❌ Common Mistakes — Bangalore to Tirupati</h2>
 <ul>
  	<li>❌ <strong>Confusing KSRTC and APSRTC counters:</strong> They're separate operators on different platforms at Majestic. Note which one you booked and go to the right counter — don't miss your bus hunting for it.</li>
@@ -193,14 +193,14 @@ The paid Special Entry Darshan rules have been changing, so confirm current opti
  	<li>❌ <strong>Planning a one-day trip on the free queue:</strong> Without a pre-booked slot, the Sarva Darshan wait makes same-day return impossible. Arrange darshan first.</li>
  	<li>❌ <strong>Trusting any package blindly:</strong> Private operators vary widely. Stick to government (KSTDC/IRCTC) or well-reviewed agencies, and confirm what darshan is actually included.</li>
  	<li>❌ <strong>Trying to drive all the way to Tirumala:</strong> Personal vehicles are restricted on the hill. Park at Alipiri and take the TTD bus.</li>
- 	<li>❌ <strong>Ignoring the dress code:</strong> Turning up in casuals and getting stopped at the Tirumala gate is common. Read the <a href="/tirumala-dress-code-rules/">dress code rules</a> first.</li>
+ 	<li>❌ <strong>Ignoring the dress code:</strong> Turning up in casuals and getting stopped at the Tirumala gate is common. Read the <a href="/tirumala-dress-code-rules-2026-2026/">dress code rules</a> first.</li>
 </ul>
 <h2>📚 Also read</h2>
 <ul>
- 	<li><a href="/chennai-se-tirumala-kaise-jayen/">Chennai to Tirumala — Fastest &amp; Cheapest Route</a></li>
- 	<li><a href="/hyderabad-se-tirupati-kaise-jayen/">Hyderabad to Tirupati — All Travel Options Compared</a></li>
+ 	<li><a href="/chennai-to-tirumala/">Chennai to Tirumala — Fastest &amp; Cheapest Route</a></li>
+ 	<li><a href="/hyderabad-to-tirupati/">Hyderabad to Tirupati — All Travel Options Compared</a></li>
  	<li><a href="/ttd-special-entry-darshan-online-booking/">TTD Special Entry Darshan Booking — Step by Step</a></li>
- 	<li><a href="/tirumala-darshan-best-time/">Best Time for Tirumala Darshan — Avoid the Crowds</a></li>
+ 	<li><a href="/tirumala-darshan-best-time-month-by-month-month-by-month/">Best Time for Tirumala Darshan — Avoid the Crowds</a></li>
  	<li><a href="/ttd-accommodation-online-booking/">TTD Accommodation Online Booking Guide</a></li>
 </ul>
 <h2>Frequently Asked Questions — Bangalore to Tirupati</h2>

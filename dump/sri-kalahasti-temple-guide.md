@@ -186,7 +186,7 @@ This is a genuinely unique souvenir — unlike mass-market temple merchandise.
  	<li>❌ Leather items (belt, shoes, bags) — not preferred on temple premises</li>
  	<li>Footwear is deposited at the entrance counter</li>
 </ul>
-Read the full <a href="/tirumala-dress-code-rules/">temple dress code guide</a>.
+Read the full <a href="/tirumala-dress-code-rules-2026-2026/">temple dress code guide</a>.
 <h2>Facilities at the temple</h2>
 <table>
 <thead>
@@ -243,8 +243,8 @@ Read the full <a href="/tirumala-dress-code-rules/">temple dress code guide</a>.
  	<li><a href="/tirupati-2-day-itinerary/">Tirupati 2-day itinerary — add Kalahasti as Day 3</a></li>
  	<li><a href="/tiruchanur-padmavathi-temple-guide/">Tiruchanur Padmavathi temple — 5 km from Tirupati</a></li>
  	<li><a href="/kapila-theertham-tirupati/">Kapila Theertham — Shiva temple and waterfall</a></li>
- 	<li><a href="/tirumala-darshan-ke-prakar/">Types of Tirumala darshan — the full breakdown</a></li>
- 	<li><a href="/tirumala-dress-code-rules/">Temple dress code rules — what to wear</a></li>
+ 	<li><a href="/types-of-tirumala-darshan/">Types of Tirumala darshan — the full breakdown</a></li>
+ 	<li><a href="/tirumala-dress-code-rules-2026-2026/">Temple dress code rules — what to wear</a></li>
 </ul>
 <h2>Frequently Asked Questions — Sri Kalahasti Temple</h2>
 [sc_fs_multi_faq headline-0="h4" question-0="How far is Sri Kalahasti from Tirupati?" answer-0="About 36 km — roughly 1–1.5 hours by APSRTC bus (₹40–₹60) or 45–60 minutes by taxi (₹800–₹1,200 one way). A same-day round trip is easily possible: morning bus, puja and darshan, afternoon return." count="1" html="true"]
